@@ -6,8 +6,8 @@ logo: assets/images/logo.png
 favicon: assets/images/favicon.ico'
 baseurl: 
 # google_analytics: 'UA-46278016-1'
-# disqus: ''
-# mailchimp-list: 
+disqus: 
+mailchimp-list: 'https://zikapanam.us17.list-manage.com/subscribe/post?u=e285f1402aa04caeb98623bf5&id=b4caddf1c4&f_id=00414de0f0'
 include: ["_pages"]
 permalink: /:title/
 

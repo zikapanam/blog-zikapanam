@@ -12,13 +12,15 @@ mailchimp-list: 'https://zikapanam.us17.list-manage.com/subscribe/post?u=e285f14
 include: ["_pages"]
 permalink: /:title/
 
+collections:
+  testimonials_pjc:
+
 # Authors
 authors:
   zikapanam:
     name: zikapanam 
     display_name: ZAP   
     avatar: assets/images/avatar.png
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: contact@zikapanam.fr
     web: https://www.zikapanam.fr
     description: "Rédacteur de ce blog, l'équipe ZIKAPANAM."
@@ -42,7 +44,7 @@ jekyll-archives:
 # Pagination 
 paginate: 6
 paginate_path: /page:num/
-    
+
 # Other
 markdown: kramdown
 

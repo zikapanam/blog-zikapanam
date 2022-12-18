@@ -35,8 +35,8 @@ q {
 }
 
 /* next & previous buttons */
-.prev,
-.next {
+.slide-prev,
+.slide-next {
   cursor: pointer;
   position: absolute;
   top: 55%;
@@ -52,15 +52,15 @@ q {
 }
 
 /* position the "next button" to the right */
-.next {
+.slide-next {
   position: absolute;
   right: 0;
   border-radius: 3px;
 }
 
 /* on hover, add a black bg color with a little bit see-through */
-.prev:hover,
-.next:hover {
+.slide-prev:hover,
+.slide-next:hover {
   background-color: #000; /* fallback color */
   background-color: rgba(0, 0, 0, 0.8);
   color: #f6eac1;
@@ -85,7 +85,7 @@ q {
 }
 
 /* add bg color to the active dot/circle */
-.active {
-  background-color: #232323;
+.slide-active {
+  background-color: #575757;
 }
 

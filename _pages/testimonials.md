@@ -26,8 +26,8 @@ permalink: /testimonials
 {% endfor %}
 
     <!-- Next/prev buttons -->
-    <a class="prev">&#10094;</a>
-    <a class="next">&#10095;</a>
+    <a class="slide-prev">&#10094;</a>
+    <a class="slide-next">&#10095;</a>
 
   </div><!-- END slidehow-container -->
 
@@ -43,8 +43,8 @@ permalink: /testimonials
 <script>
 let slides = document.getElementsByClassName("mySlides");
 let dots = document.getElementsByClassName("dot");
-let prev = document.querySelector(".prev");
-let next = document.querySelector(".next");
+let prev = document.querySelector(".slide-prev");
+let next = document.querySelector(".slide-next");
 
 if (!slides.length == 0) {
   let slideIndex = 1;
@@ -72,11 +72,11 @@ if (!slides.length == 0) {
     }
 
     for (i = 0; i < dots.length; i++) {
-      dots[i].className = dots[i].className.replace(" active", "");
+      dots[i].className = dots[i].className.replace(" slide-active", "");
     }
 
     slides[slideIndex - 1].style.display = "block";
-    dots[slideIndex - 1].className += " active";
+    dots[slideIndex - 1].className += " slide-active";
   }
 }
 

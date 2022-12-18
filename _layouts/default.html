@@ -94,8 +94,9 @@ ga('send', 'pageview');
 
 
 
-
+                {% if site.search? %}
                 {% include search-lunr.html %}
+                {% endif %}
 
             </ul>
 

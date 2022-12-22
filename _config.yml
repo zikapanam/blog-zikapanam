@@ -37,10 +37,15 @@ plugins:
 jekyll-archives:
   enabled:
     - categories
-  layout: archive
+  enabled:
+    - month  
+  layouts:
+    category: categories
+    month: monthly
   permalinks:
     category: '/category/:name/'
-    
+    month: '/:year-:month/'    
+
 # Pagination 
 paginate: 6
 paginate_path: /page:num/

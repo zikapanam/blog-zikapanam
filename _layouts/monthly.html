@@ -6,10 +6,10 @@ permalink: "/monthly.html"
 
 <div class="row listrecent">
 <h2>Articles par mois</h2>
-{% assign postsByYearMonth = site.posts | group_by_exp:"post", "post.date | date: '%m/%Y'"  %}
+{% assign postsByYearMonth = site.posts | group_by_exp:"post", "post.date | date: '%m-%Y'"  %}
 {% for yearMonth in postsByYearMonth %}
 <div class="section-title col-md-12 mt-4">
-  <h3>{{ yearMonth.name }}</h3>
+  <h3 id="{{ yearMonth.name }}">{{ yearMonth.name }}</h3>
     <ul>
       {% for post in yearMonth.items %}
         <li>

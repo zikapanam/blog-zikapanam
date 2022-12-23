@@ -7,16 +7,16 @@
 
 .tooltip .tooltiptext {
   visibility: hidden;
-  width: 100%;
+  width: 80%;
   background-color: #E5E5E5;
   text-align: left;
   border-radius: 6px;
-  padding: 5px 0;
+  padding: 10px;
   position: absolute;
   z-index: 1;
   bottom: 150%;
-  left: 175px;
-  margin-left: -225px;
+  left: 80%;
+  margin-left: -80%;
   opacity: 0;
   transition: opacity 0.3s;
 }

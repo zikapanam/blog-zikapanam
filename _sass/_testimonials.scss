@@ -24,13 +24,13 @@ q {
 /* Slides */
 .mySlides {
   display: none;
-  padding: 2rem 5rem 0 5rem;
+  padding: 5px;
   text-align: center;
 }
 
 .mySlidesContainer {
   min-height: 5rem;
-  padding: 3.5rem 2.5rem 2rem 3.5rem;
+  padding: 5px;
   background: #f6eac1;
 }
 
@@ -39,7 +39,7 @@ q {
 .slide-next {
   cursor: pointer;
   position: absolute;
-  top: 55%;
+  top: 100%;
   width: auto;
   margin-top: -1.875rem;
   padding: 1rem;
@@ -62,7 +62,7 @@ q {
 .slide-prev:hover,
 .slide-next:hover {
   background-color: #000; /* fallback color */
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(0, 0, 0, 0.3);
   color: #f6eac1;
   text-decoration: none;
 }

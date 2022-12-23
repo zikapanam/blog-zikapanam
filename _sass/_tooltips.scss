@@ -7,14 +7,14 @@
 
 .tooltip .tooltiptext {
   visibility: hidden;
-  width: 450px;
+  width: 100%;
   background-color: #E5E5E5;
   text-align: left;
   border-radius: 6px;
   padding: 5px 0;
   position: absolute;
   z-index: 1;
-  bottom: 125%;
+  bottom: 150%;
   left: 175px;
   margin-left: -225px;
   opacity: 0;

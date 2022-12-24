@@ -8,11 +8,12 @@
   width: 100%;
   max-width: 600px;
   margin: 10px;
+  z-index:0
 }
 .tooltip-inner {
   float: left;
   background-color: #FFF;
-
+  z-index:0
 }
 
 .tooltip .tooltiptext {
@@ -40,6 +41,7 @@
   border-width: 5px;
   border-style: solid;
   border-color: #555 transparent transparent transparent;
+  z-index:0
 }
 
 .tooltip:hover .tooltiptext {

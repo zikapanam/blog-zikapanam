@@ -19,12 +19,29 @@ permalink: "/categories.html"
 {% for post in pages_list %}
 {% if post.title != null %}
 {% if group == null or group == post.group %}
-        <li>
-          <div class="tooltip">
-            <a href="{{ post.url }}">{{ post.title }}</a>
-	    <span class="tooltiptext">{{ post.description }}</span>
-	  </div>
-	</li>
+	        <div class="tooltip">
+		<div class="tooltip-inner">
+	        <a href="{{ post.url }}">
+                 {% if post.image %}
+
+                    {% if site.lazyimages == "enabled" %}
+                        <img class="lazyimg" height="64" width="64" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}" alt="{{ post.title }}"/>
+                    {% else %}
+                        <img height="64" width="64" src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}" alt="{{ post.title }}"/>
+                    {% endif %}
+		{% else %}
+			<img height="64" width="64"/>
+                {% endif %}
+                </a>
+                </div>
+		<div class="tooltip-inner">
+	        <a href="{{ post.url }}">
+		{{ post.title }}
+		</a>
+		</div>
+    <span class="tooltiptext">{{ post.description }}</span>
+  </div>
+  <br/>
 {% endif %}
 {% endif %}
 {% endfor %}

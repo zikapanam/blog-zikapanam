@@ -1,0 +1,108 @@
+---
+layout: newsletter
+author: zikapanam
+title: "Newsletter janvier 2023"
+comments: true
+---
+  <tr>
+    <td class="cols-wrapper" style="padding-left:12px;padding-right:12px">
+
+    <!--[if mso]>
+      <table border="0" width="576" cellpadding="0" cellspacing="0" style="width: 576px;">
+      <tr><td width="192" style="width: 192px;" valign="top"><![endif]-->
+      
+
+			  {% for post in site.posts %}
+			  
+			  {% if post.newsletters contains "newsletter_2023_01.ligne1" %}
+			  
+			          <table width="192" border="0" cellpadding="0" cellspacing="0" align="left" class="force-row" style="width: 192px;">
+          <tr>
+            <td class="col" valign="top" style="padding-left:12px;padding-right:12px;padding-top:18px;padding-bottom:12px">
+              <table border="0" cellpadding="0" cellspacing="0" class="img-wrapper">
+                <tr>
+                  <td style="padding-bottom:18px"><a href="{{ post.url }}"><img src="{{ site.baseurl }}/{{ post.image }}" border="0" alt="{{ post.title }}" width="168" height="110" hspace="0" vspace="0" style="max-width:100%; " class="image"></a></td>
+                </tr>
+              </table>
+              <table border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td class="subtitle" style="font-family:Helvetica, Arial, sans-serif;font-size:16px;line-height:22px;font-weight:600;color:#2469A0;padding-bottom:6px"><a href="{{ post.url }}">{{ post.title }}</a></td>
+                </tr>
+                <tr>
+                  <td>
+		        <span class="post-date" style="font-family:Helvetica, Arial, sans-serif;font-size:12px;line-height:12px;font-weight:600;color:#2469A0;padding-bottom:6px"><time class="post-date" datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date_to_string }}</time></span>           
+		        {% if post.last_modified_at %}
+		        (Updated: <time datetime="{{ post.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ post.last_modified_at | date: "%b %-d, %Y" }}</time>)
+		        {% endif %}
+		  </td>
+                </tr>
+              </table>
+              <div class="col-copy" style="font-family:Helvetica, Arial, sans-serif;font-size:13px;line-height:20px;text-align:left;color:#333333">{{ post.description }}</div>
+              <br>
+            </td>
+          </tr>
+        </table>
+
+        
+          <!--[if mso]></td><td width="192" style="width: 192px;" valign="top"><![endif]-->
+
+			  {% endif %}
+			  {% endfor %}
+			 
+
+      <!--[if mso]></td></tr></table><![endif]-->
+
+    </td>
+  </tr>
+
+  <tr>
+    <td class="cols-wrapper" style="padding-left:12px;padding-right:12px">
+
+    <!--[if mso]>
+      <table border="0" width="576" cellpadding="0" cellspacing="0" style="width: 576px;">
+      <tr><td width="192" style="width: 192px;" valign="top"><![endif]-->
+      
+
+			  {% for post in site.posts %}
+			  
+			  {% if post.newsletters contains "newsletter_2023_01.ligne2" %}
+			  
+			          <table width="192" border="0" cellpadding="0" cellspacing="0" align="left" class="force-row" style="width: 192px;">
+          <tr>
+            <td class="col" valign="top" style="padding-left:12px;padding-right:12px;padding-top:18px;padding-bottom:12px">
+              <table border="0" cellpadding="0" cellspacing="0" class="img-wrapper">
+                <tr>
+                  <td style="padding-bottom:18px"><a href="{{ post.url }}"><img src="{{ site.baseurl }}/{{ post.image }}" border="0" alt="{{ post.title }}" width="168" height="110" hspace="0" vspace="0" style="max-width:100%; " class="image"></a></td>
+                </tr>
+              </table>
+              <table border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td class="subtitle" style="font-family:Helvetica, Arial, sans-serif;font-size:16px;line-height:22px;font-weight:600;color:#2469A0;padding-bottom:6px"><a href="{{ post.url }}">{{ post.title }}</a></td>
+                </tr>
+                <tr>
+                  <td>
+		        <span class="post-date" style="font-family:Helvetica, Arial, sans-serif;font-size:12px;line-height:12px;font-weight:600;color:#2469A0;padding-bottom:6px"><time class="post-date" datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date_to_string }}</time></span>           
+		        {% if post.last_modified_at %}
+		        (Updated: <time datetime="{{ post.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ post.last_modified_at | date: "%b %-d, %Y" }}</time>)
+		        {% endif %}
+		  </td>
+                </tr>
+              </table>
+              <div class="col-copy" style="font-family:Helvetica, Arial, sans-serif;font-size:13px;line-height:20px;text-align:left;color:#333333">{{ post.description }}</div>
+              <br>
+            </td>
+          </tr>
+        </table>
+
+        
+          <!--[if mso]></td><td width="192" style="width: 192px;" valign="top"><![endif]-->
+
+			  {% endif %}
+			  {% endfor %}
+			 
+
+      <!--[if mso]></td></tr></table><![endif]-->
+
+    </td>
+  </tr>
+

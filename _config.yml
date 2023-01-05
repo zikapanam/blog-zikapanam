@@ -9,7 +9,7 @@ baseurl:
 search:
 disqus: 
 mailchimp-list: 'https://zikapanam.us17.list-manage.com/subscribe/post?u=e285f1402aa04caeb98623bf5&id=b4caddf1c4&f_id=00414de0f0'
-include: ["_pages"]
+include: ["_pages", "_newsletter"]
 permalink: /:title/
 
 collections:

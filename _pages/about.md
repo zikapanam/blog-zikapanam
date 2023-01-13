@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog de ZIKAPANAM 
+title: À propos 
 permalink: /about
 ---
 

@@ -1,0 +1,65 @@
+---
+layout: post
+author: zikapanam
+title: "[FR|EN] ZAP : un long enregistrement de session ?"
+categories:
+- Petites astuces entre amis
+image: assets/images/learn-tim-mossholder-WE_Kv_ZB1l0-unsplash.jpg
+description: Reaper est l'outil idéal pour découper vos enregistrements de session et générer des fichiers mp3 par exemple !
+newsletters:
+- 
+comments: true
+---
+
+<p><strong>-- EN FRANÇAIS --</strong></p>
+<p><strong>Titre</strong> : un long enregistrement de session ?</p>
+<p><strong>Description</strong> : Reaper est l'outil idéal pour découper vos enregistrements de session et générer des fichiers mp3 par exemple !</p>
+
+<h2>REAPER : Qu'est-ce que c'est ?</h2>
+
+<p>Reaper est un DAW que vous pouvez utiliser gratuitement pour votre usage personnel. La licence commercial est à un prix raisonnable. Ce logiciel est vraiment plein d'astuces et vaut le coup si vous faîtes de la MAO!</p>
+
+<p><a href="https://www.reaper.fm/download.php">Download REAPER</a></p>
+
+<h2>Installation / Démarrage</h2>
+
+<p>Je passe sur ces aspects, il n'y a rien de compliqué</p>
+
+<h2>Découpage</h2>
+
+<p>Reaper permet de définir des régions (des zones audio) avec chacune leur propre nom. Nous allons utiliser cette capacité pour déterminer les zones de l'enregistrement ou se trouvent les chansons que l'on veut extraire en fichiers MP3 ! Une forme d'onde est caractérisé par du noir sur l'écran, au plus le son est fort au plus la zone en noir va haut sur le ruband (la piste ou track en anglais). Ainsi on peut déterminer rien qu'en regardant la forme d'onde où se situent les débuts et les fins des morceaux. Inutile donc de ré-écouter les 2/3 heures de session ! Écoutez juste le début et la fin de chaque chanson pour régler plus finement le début et la fin de chaque zone / région.</p>
+
+<h2>Rendu</h2>
+
+<p>Une fois nos régions créées, on va faire le rendu des régions en fichier MP3 par exemple. Pour cela, rendez-vous dans le menu File puis l'option Render. Voici les options qu'il faut régler :</p>
+<ul>
+<li>Source : Master mix</li>
+<li>Bounds : All Project Regions</li>
+<li>Directory : Choisir le répertoire de destination des fichiers MP3</li>
+<li>File name : Précisez votre format de nom de fichier en utilisant la variable $region qui sera remplacée par le nom que vous avez attribué à chaque région traitée.</li>
+<li>Cocher 2nd pass render (rallonge le temps de traitement)</li>
+<li>Cliquez sur le bouton Normalize/ON, choisissez les options qui vous intéressent ou celles proposées dans la vidéo</li>
+<li>Format : Sélectionnez MP3</li>
+<li>Bitrate : Sélectionnez 192 pour une qualité correcte ou plus pour une qualité se rapprochant de la qualité CD</li>
+<li>Puis enfin, cliquez sur le bouton "Render n files"</li>
+</ul>
+
+<p>Alternativement, vous pouvez ajouter des métadatas en utilisant les variables proposées par REAPER ($region, $project ...) en activant la case à cocher Métadata et en cliquant sur le bouton de même nom pour accéder aux réglages de ces métadatas.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SLU4VwxggK0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<div class="english">
+<p><strong>-- IN ENGLISH --</strong></p><p><strong>Title</strong>: a long session recording?</p><p><strong>Description</strong>: Reaper is the ideal tool to cut your session recordings and generate mp3 files for example!</p>
+<h2>REAPER: What is it:</h2>
+<p>Reaper is a DAW that you can use for free for your personal use. The commercial license is reasonably priced. This software is really full of tricks and is worth it if you are doing DAW!</p>
+<p><a href="https://www.reaper.fm/download.php">Download REAPER</a></p>
+<h2>Installation/Startup</h2>
+<p>I'll skip over these aspects, there's nothing complicated</p>
+<h2>Cutting out</h2>
+<p>Reaper allows you to define regions (audio areas) each with their own name. We're going to use this ability to determine the areas of the recording where the songs we want to extract as MP3 files are located! A waveform is characterized by black on the screen, the louder the sound, the higher the black zone on the ribbon (the track). So you can determine just by looking at the waveform where the beginnings and ends of the songs are located. So there is no need to listen to the 2/3 hour session again! Just listen to the beginning and end of each song to fine tune the beginning and end of each zone / region.</p>
+<h2>Rendering</h2>
+<p>Once we have created our regions, we will render the regions to MP3 files for example. To do this, go to the File menu and then the Render option. Here are the options we need to set:</p><ul><li>Source: Master mix</li><li>Bounds : All Project Regions</li><li>Directory: Choose the destination directory for the MP3 files</li><li>File name: Specify your file name format using the variable $region which will be replaced by the name you assigned to each processed region.</li><li>Check 2nd pass render (extends processing time)</li><li>Click on the Normalize/ON button, choose the options you are interested in or those offered in the video</li><li>Format: Select MP3</li><li>Bitrate: Select 192 for decent quality or more for quality approaching CD quality</li><li>Then finally, click the "Render n files"</li> button.</ul>
+<p>Alternatively, you can add metadatas using the variables offered by REAPER ($region, $project ...) by activating the Metadata checkbox and clicking on the button of the same name to access the settings of these metadatas.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SLU4VwxggK0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>

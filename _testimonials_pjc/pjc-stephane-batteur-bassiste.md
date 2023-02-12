@@ -1,6 +1,6 @@
 ---
 author: Stéphane_Ams
-attribution: "Retraité, Batteur expérimenté et Bassiste en devenir"
+attribution: "Retraité, Batteur expérimenté et Bassiste en devenir PJC"
 index: 10
 ---
 J'ai rejoint le groupe de travail Jazz à la basse (projet annexe de Paris Jam Club). L'objectif de cet atelier bimensuel est de nous mettre progressivement dans les conditions d'une jam sans pression et dans la bonne humeur.

@@ -1,6 +1,6 @@
 ---
 author: Jérôme_Wei
-attribution: Guitariste
+attribution: Guitariste PJC
 index: 3
 ---
 Paris Jam Club conduit par Laurent m'a permis de renouer avec le jeu et le partage avec d'autre musiciens. Ça se passe toujours dans la convivialité et avec sérieux, à des horaires qui me sont accessibles malgré mon emploi du temps déjà pas mal pris par le travail et ma vie familiale.

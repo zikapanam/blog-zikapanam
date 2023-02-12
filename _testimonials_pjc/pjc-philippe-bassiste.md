@@ -1,6 +1,6 @@
 ---
 author: Philippe_Dem
-attribution: "Bassiste et organisateur de jams"
+attribution: "Bassiste et organisateur de jams PJC"
 index: 3
 ---
 J'ai trouvé dans Paris Jam Club, l'occasion d'ouvrir mon univers grâce à de nombreuses rencontres musicales.

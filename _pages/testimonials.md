@@ -3,90 +3,42 @@ layout: page
 title: Témoignages
 permalink: /testimonials
 ---
-<h2>Témoignages PJC</h2>
-<section class="customer-revs">
-  <div class="rectangle"></div>
+{% assign testimonials = site.coll_testimonials | sort: "index" %}
 
-  <!-- Slideshow container -->
-  <div class="slideshow-container">
 
-{% assign sortedtestimonials = site.testimonials_pjc | sort: "index" %}
+{% tabs temoignages %}
 
-{% for testimonial in sortedtestimonials %}
+{% tab temoignages PJC %}
 
-    <!-- Full-width slides/quotes -->
-    <div class="mySlides">
-      <div class="mySlidesContainer">
-        <q>
-          {{ testimonial.content | remove: "<p>" | remove: "</p>" }}
-        </q>
-      </div>
-      <p class="author">Par: <span>{{ testimonial.author }}</span><br/><span>{{ testimonial.attribution }}</span></p>
-    </div>
-{% endfor %}
+<br/>
 
-    <!-- Next/prev buttons -->
-    <a class="slide-prev">&#10094;</a>
-    <a class="slide-next">&#10095;</a>
+{{ testimonials[0].content }}
 
-  </div><!-- END slidehow-container -->
+{% endtab %}
 
-  <!-- Dots/bullets/indicators -->
-  <div class="dot-container">
-  {% for testimonial in sortedtestimonials %}
-    <span class="dot"></span>
-  {% endfor %}
-  </div>
+{% tab temoignages Orga PJC %}
 
-</section>
+<br/>
 
-<script>
-let slides = document.getElementsByClassName("mySlides");
-let dots = document.getElementsByClassName("dot");
-let prev = document.querySelector(".slide-prev");
-let next = document.querySelector(".slide-next");
+{{ testimonials[1].content }}
 
-if (!slides.length == 0) {
-  let slideIndex = 1;
-  showSlides(slideIndex);
+{% endtab %}
 
-  function plusSlides(n) {
-    showSlides((slideIndex += n));
-  }
+{% tab temoignages MIP %}
 
-  let currentSlide = function (n) {
-    showSlides((slideIndex = n));
-  };
+<br/>
 
-  function showSlides(n) {
-    if (n > slides.length) {
-      slideIndex = 1;
-    }
+{{ testimonials[2].content }}
 
-    if (n < 1) {
-      slideIndex = slides.length;
-    }
+{% endtab %}
 
-    for (i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";
-    }
+{% tab temoignages Leaders MIP %}
 
-    for (i = 0; i < dots.length; i++) {
-      dots[i].className = dots[i].className.replace(" slide-active", "");
-    }
+<br/>
 
-    slides[slideIndex - 1].style.display = "block";
-    dots[slideIndex - 1].className += " slide-active";
-  }
-}
+{{ testimonials[3].content }}
 
-prev.addEventListener("click", () => {
-  plusSlides(-1);
-});
+{% endtab %}
 
-next.addEventListener("click", () => {
-  plusSlides(1);
-});
-
-</script>
+{% endtabs %}
 

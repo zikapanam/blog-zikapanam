@@ -36,7 +36,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
-  - jekyll-tabs
     
 # Archives
 jekyll-archives:

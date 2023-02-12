@@ -6,39 +6,49 @@ permalink: /testimonials
 {% assign testimonials = site.coll_testimonials | sort: "index" %}
 
 
-{% tabs temoignages %}
-
-{% tab temoignages PJC %}
-
+<ul class="tab" data-tab="47e7fac6-28a7-4470-a67b-1e7406c42f73" data-name="temoignages">
+  
+      <li class="active">
+          <a href="#">PJC </a>
+      </li>
+  
+      <li>
+          <a href="#">Orga PJC </a>
+      </li>
+  
+      <li>
+          <a href="#">MIP </a>
+      </li>
+  
+      <li>
+          <a href="#">Leaders MIP </a>
+      </li>
+  
+</ul>
+<ul class="tab-content" id="47e7fac6-28a7-4470-a67b-1e7406c42f73" data-name="temoignages">
+  
+      <li class="active">
 <br/>
 
 {{ testimonials[0].content }}
 
-{% endtab %}
-
-{% tab temoignages Orga PJC %}
-
+      </li>
+      <li>
 <br/>
 
 {{ testimonials[1].content }}
 
-{% endtab %}
-
-{% tab temoignages MIP %}
-
+      </li>
+      <li>
 <br/>
 
 {{ testimonials[2].content }}
 
-{% endtab %}
-
-{% tab temoignages Leaders MIP %}
-
+      </li>
+      <li>
 <br/>
 
 {{ testimonials[3].content }}
 
-{% endtab %}
-
-{% endtabs %}
-
+      </li>
+</ul>

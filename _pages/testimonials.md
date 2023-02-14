@@ -13,7 +13,7 @@ permalink: /testimonials
       </li>
   
       <li>
-          <a href="#">Orga PJC </a>
+          <a href="#">Orgas PJC </a>
       </li>
   
       <li>

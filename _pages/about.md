@@ -32,7 +32,8 @@ Linktree : <a href="https://linktr.ee/JamsMusicales">https://linktr.ee/JamsMusic
 <ul>
 <li>jams en studio de répétition ;</li>
 <li>jams concert ;</li>
-<li>soirée jams (ou scène ouverte) ;</li>
+<li>soirées jams (ou scène ouverte + jam session organisées par l'association) ;</li>
+<li>sorties jams (pour aller en groupe à une scène ouverte ou une jam session qui a pignon sur rue)</li>
 <li>street jams (dehors par beau temps) ;</li>
 <li>jams distancielles (par internet).</li>
 </ul>
@@ -46,7 +47,7 @@ Linktree : <a href="https://linktr.ee/JamsMusicales">https://linktr.ee/JamsMusic
 Email : <a href="contact-mip@zikapanam.fr">contact-mip@zikapanam.fr</a><br/>
 Linktree : <a href="https://linktr.ee/Musiciens.Interdebs.Parisiens">https://linktr.ee/Musiciens.Interdebs.Parisiens</a><br/>
 </p>
-<p>La communauté MIP, créée en novembre 2022,  permet d'organiser et participer à des répétitions sur des reprises dans le cadre de collectifs de musiciens où il fait bon vivre. Les musiciens intermédiaires et débutants y joue dans une ambiance à la cool, pour le fun mais appliquée.</p>
+<p>La communauté MIP, créée en novembre 2022,  permet d'organiser et participer à des sessions sur des reprises dans le cadre de collectifs de musiciens où il fait bon vivre. Les musiciens intermédiaires et débutants y joue dans une ambiance à la cool, pour le fun mais appliquée.</p>
 </div>
 <div style="min-height:400px;">
 <h2>04 - Atelier d'Impro Musicale de Paris</h2>

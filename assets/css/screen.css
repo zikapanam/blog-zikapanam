@@ -55,6 +55,24 @@ pre {
     transition: all 0.4s;
 }
 
+@media only screen and (max-width: 1200px) {
+section.about {
+    margin-bottom: 20px;
+    max-width: 100%; 
+    min-height:450px;
+}
+}
+
+@media only screen and (min-width: 1200px) {
+section.about {
+    margin-bottom: 20px;
+    max-width: 70%;
+    padding-left: 15%;
+    min-height:450px; 
+}
+}
+
+
 section {
     margin-bottom: 20px;
 }

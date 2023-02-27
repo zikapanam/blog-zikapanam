@@ -6,7 +6,7 @@ permalink: /about
 
 <p>Ce blog rassemble tous les articles parus depuis la prise de décision de création de l'association ZIKAPANAM. Cette association gère aujourd'hui trois projets dont deux communautés MIP et PJC ainsi que l'AIMP.
 </p>
-<section style="horizontal-align:center;min-height:300px;width:80%;horizontal-align:center">
+<section class="about">
     <div class="section-title">
         <h2 style="text-align:left"><span>01 - ZIKAPANAM</span></h2>
     </div>
@@ -21,7 +21,7 @@ permalink: /about
 	<p>ZIKAPANAM (association loi 1901) fédère une communauté de musiciens et gère le Paris Jam Club, l'Atelier d'impro musicale de Paris et les Musiciens Interdébs de Paris. Nos rencontres se font sur  Paris et sa petite couronne mais des rencontres “en ligne” permettent de toucher des musiciens plus éloignés géographiquement.</p>
     </div>
 </section>
-<section style="horizontal-align:center;min-height:300px;width:80%;horizontal-align:center">
+<section class="about">
     <div class="section-title">
 	<h2 style="text-align:right"><span>02 - Paris Jam Club</span></h2>
     </div>
@@ -44,7 +44,7 @@ permalink: /about
 	</ul>
    </div>
 </section>
-<section style="horizontal-align:center;min-height:300px;width:80%;horizontal-align:center">
+<section class="about">
     <div class="section-title" >
 	<h2 style="text-align:left"><span>03 - Musiciens Interdebs de Paris</span></h2>
     </div>
@@ -59,7 +59,7 @@ permalink: /about
 	<p>La communauté MIP, créée en novembre 2022,  permet d'organiser et participer à des sessions sur des reprises dans le cadre de collectifs de musiciens où il fait bon vivre. Les musiciens intermédiaires et débutants y joue dans une ambiance à la cool, pour le fun mais appliquée.</p>
     </div>
 </section>
-<section style="horizontal-align:center;min-height:300px;width:80%;horizontal-align:center">
+<section class="about">
     <div class="section-title">
 	<h2 style="text-align:right"><span>04 - Atelier d'Impro Musicale de Paris</span></h2>
     </div>
@@ -84,7 +84,7 @@ permalink: /about
 	</p>
     </div>
 </section>
-<section style="horizontal-align:center;min-height:300px;width:80%;horizontal-align:center">
+<section class="about">
    <div class="section-title">
 	<h2 style="text-align:left"><span>05 - Communautés Discord</span></h2>
     </div>
@@ -99,7 +99,7 @@ permalink: /about
 	</p>
     </div>
 </section>
-<section style="horizontal-align:center;min-height:300px;width:80%;horizontal-align:center">
+<section class="about">
     <div class="section-title">
 	<h2 style="text-align:right"><span>06 - Manifestations exceptionnelles</span></h2>
     </div>

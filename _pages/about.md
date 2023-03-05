@@ -11,6 +11,10 @@ permalink: /about
         <h2 style="text-align:left"><span>01 - ZIKAPANAM</span></h2>
     </div>
     <div class="article-post">
+        <div style="text-align:center">
+          <p><iframe width="560" height="315" src="https://www.youtube.com/embed/T9djMv31qE0" title="YouTube video player" frameborder="0" allow="acc
+          elerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+        </div>
 	<p><img style="float:left;padding-right:30px;" src="{{ site.baseurl }}/assets/images/illustration-zikapanam-logo.png" height="300"/></p>
 	<p>
 	Email : <a href="contact@zikapanam.fr">contact@zikapanam.fr</a><br/>

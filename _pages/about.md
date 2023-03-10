@@ -74,7 +74,7 @@ permalink: /about
 	Linktree : <a href="https://linktr.ee/AtelierImproMusicaleParis">https://linktr.ee/AtelierImproMusicaleParis</a><br/>
 	</p>
 
-	<p>L'Atelier d'impro musicale de Paris est une structure qui regroupe un peu plus d'une trentaine de membres et dont le but est de développer les techniques d'improvisation chez des musiciens ayant déjà un niveau adapté.</p>
+	<p>L'Atelier d'impro musicale de Paris est une structure qui regroupe un peu plus d'une quarantaine de membres et dont le but est de développer les techniques d'improvisation chez des musiciens ayant déjà un niveau adapté.</p>
 
 	<p>Les membres de cette structure sont pleinement intégrés à la communauté Paris Jam Club.</p>
 	<p>Plusieurs sous projets à ce jour :

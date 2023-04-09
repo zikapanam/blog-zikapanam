@@ -64,7 +64,7 @@ permalink: /about
 	Discord (MIP) : <a href="https://discord.gg/PgJcKCpyqU">https://discord.gg/PgJcKCpyqU</a><br/>
 	Facebook : <a href="https://www.facebook.com/musiciens.interdebs.parisiens">https://www.facebook.com/musiciens.interdebs.parisiens</a><br/>
 	</p>
-	<p>La communauté MIP, créée en novembre 2022,  permet d'organiser et participer à des sessions sur des reprises dans le cadre de collectifs de musiciens où il fait bon vivre. Les musiciens intermédiaires et débutants y joue dans une ambiance à la cool, pour le fun mais appliquée.</p>
+	<p>La communauté MIP, créée en novembre 2022,  permet d'organiser et participer à des sessions sur des reprises dans le cadre de collectifs de musiciens où il fait bon vivre. Les musiciens intermédiaires et débutants y joue dans une ambiance à la cool, pour le fun mais appliquée et impliquée.</p>
 	<p>Les collectifs suivants ont été créé ou sont en cours de constitution :
 	<ul>
 	<li>Collectif Ultra Heavy Riffs (Jeanne-Charlotte) : Du rock au métal ;</li>

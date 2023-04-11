@@ -36,6 +36,7 @@ permalink: /about
 	Linktree : <a href="https://linktr.ee/JamsMusicales">https://linktr.ee/JamsMusicales</a><br/>
 	Discord (PJC) : <a href="http://discord.gg/xjPA48eNJz">http://discord.gg/xjPA48eNJz</a><br/>
 	Facebook : <a href="https://www.facebook.com/ParisJamClub">https://www.facebook.com/ParisJamClub</a><br/>
+	Niveau : intermédiaire-avancé ou avancé (<a href="https://www.blog.zikapanam.fr/zap-comment-%C3%A9valuer-son-niveau/">Évaluer son niveau ?</a>)
 	</p>
 	<p>PJC est une communauté créée en octobre 2021. Elle est organisée sur internet. Les musiciens y développent leurs compétences musicales grâce  à des rencontres autour de jams.</p>
 
@@ -63,6 +64,7 @@ permalink: /about
 	Linktree : <a href="https://linktr.ee/Musiciens.Interdebs.Parisiens">https://linktr.ee/Musiciens.Interdebs.Parisiens</a><br/>
 	Discord (MIP) : <a href="https://discord.gg/PgJcKCpyqU">https://discord.gg/PgJcKCpyqU</a><br/>
 	Facebook : <a href="https://www.facebook.com/musiciens.interdebs.parisiens">https://www.facebook.com/musiciens.interdebs.parisiens</a><br/>
+	Niveau : intermédiaire ou débutant (<a href="https://www.blog.zikapanam.fr/zap-comment-%C3%A9valuer-son-niveau/">Évaluer son niveau ?</a>)
 	</p>
 	<p>La communauté MIP, créée en novembre 2022,  permet d'organiser et participer à des sessions sur des reprises dans le cadre de collectifs de musiciens où il fait bon vivre. Les musiciens intermédiaires et débutants y joue dans une ambiance à la cool, pour le fun mais appliquée et impliquée.</p>
 	<p>Les collectifs suivants ont été créés ou sont en cours de constitution :
@@ -87,6 +89,7 @@ permalink: /about
 	Linktree : <a href="https://linktr.ee/AtelierImproMusicaleParis">https://linktr.ee/AtelierImproMusicaleParis</a><br/>
 	Discord (PJC) : <a href="http://discord.gg/xjPA48eNJz">http://discord.gg/xjPA48eNJz</a><br/>
 	Facebook : <a href="https://www.facebook.com/AtelierImproMusicaleParis">https://www.facebook.com/AtelierImproMusicaleParis</a><br/>
+	Niveau : intermédiaire-avancé ou avancé (<a href="https://www.blog.zikapanam.fr/zap-comment-%C3%A9valuer-son-niveau/">Évaluer son niveau ?</a>)
 	</p>
 
 	<p>L'Atelier d'impro musicale de Paris est une structure qui regroupe un peu plus d'une quarantaine de membres et dont le but est de développer les techniques d'improvisation chez des musiciens ayant déjà un niveau adapté.</p>
@@ -101,6 +104,7 @@ permalink: /about
 	    <li>groupe de travail Vulfan.</li>
 	</ul>
 	</p>
+	<p>Pour plus d'informations cliquez là : <a href='https://docs.google.com/document/d/1PEWbaR4c2sL_xjaSS9H8NhUM6ZgoL_RwLuHWLN2knTI/edit?usp=share_link'>Détails sur ces groupes de travail (GdT) [horaires, lieu, lineup, organisation ...)</a></p>
     </div>
 </section>
 <section class="about">

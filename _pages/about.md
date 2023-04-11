@@ -36,7 +36,7 @@ permalink: /about
 	Linktree : <a href="https://linktr.ee/JamsMusicales">https://linktr.ee/JamsMusicales</a><br/>
 	Discord (PJC) : <a href="http://discord.gg/xjPA48eNJz">http://discord.gg/xjPA48eNJz</a><br/>
 	Facebook : <a href="https://www.facebook.com/ParisJamClub">https://www.facebook.com/ParisJamClub</a><br/>
-	Niveau : intermédiaire-avancé ou avancé (<a href="https://www.blog.zikapanam.fr/zap-comment-%C3%A9valuer-son-niveau/">Évaluer son niveau ?</a>)
+	Niveau : intermédiaire-avancé ou avancé (<a href="https://www.blog.zikapanam.fr/zap-comment-%C3%A9valuer-son-niveau/">Évaluer son niveau ?</a>)<br/>
 	</p>
 	<p>PJC est une communauté créée en octobre 2021. Elle est organisée sur internet. Les musiciens y développent leurs compétences musicales grâce  à des rencontres autour de jams.</p>
 
@@ -64,15 +64,15 @@ permalink: /about
 	Linktree : <a href="https://linktr.ee/Musiciens.Interdebs.Parisiens">https://linktr.ee/Musiciens.Interdebs.Parisiens</a><br/>
 	Discord (MIP) : <a href="https://discord.gg/PgJcKCpyqU">https://discord.gg/PgJcKCpyqU</a><br/>
 	Facebook : <a href="https://www.facebook.com/musiciens.interdebs.parisiens">https://www.facebook.com/musiciens.interdebs.parisiens</a><br/>
-	Niveau : intermédiaire ou débutant (<a href="https://www.blog.zikapanam.fr/zap-comment-%C3%A9valuer-son-niveau/">Évaluer son niveau ?</a>)
+	Niveau : intermédiaire ou débutant (<a href="https://www.blog.zikapanam.fr/zap-comment-%C3%A9valuer-son-niveau/">Évaluer son niveau ?</a>)<br/>
 	</p>
 	<p>La communauté MIP, créée en novembre 2022,  permet d'organiser et participer à des sessions sur des reprises dans le cadre de collectifs de musiciens où il fait bon vivre. Les musiciens intermédiaires et débutants y joue dans une ambiance à la cool, pour le fun mais appliquée et impliquée.</p>
 	<p>Les collectifs suivants ont été créés ou sont en cours de constitution :
 	<ul>
-	<li>Collectif Ultra Heavy Riffs (Jeanne-Charlotte) : Du rock au métal ;</li>
-	<li>Collectif Les Grands Classiques (Maurice) : Chanson française et variété internationale ;</li>
-	<li>Collectif Jazz/Blues Paris Est (Yann) : Jazz / Blues et RnB ;</li>
-	<li>Collectif Panam AfroFuze (Paul) : Jazz, Blues, Soul, Funk, Afro Beat.</li>
+	<li>Collectif Ultra Heavy Riffs (Jeanne-Charlotte) : Du rock au métal [<a href='https://discord.com/channels/1038909359712895058/1052703682799599666/1052703682799599666'>Présentation</a>] ;</li>
+	<li>Collectif Les Grands Classiques (Maurice) : Chanson française et variété internationale [<a href='https://discord.com/channels/1038909359712895058/1062782176501972992/1062782176501972992'>Présentation</a>] ;</li>
+	<li>Collectif Jazz/Blues Paris Est (Yann) : Jazz / Blues et RnB [<a href='https://discord.com/channels/1038909359712895058/1050536243659804702/1050536243659804702'>Présentation</a>] ;</li>
+	<li>Collectif Panam AfroFuze (Paul) : Jazz, Blues, Soul, Funk, Afro Beat. [<a href='https://discord.com/channels/1038909359712895058/1092582664088850432/1092582664088850432'>Présentation</a>] ;</li>
 	<li>On est ouvert à la création de nouveaux collectifs, n'hésitez à venir en discuter avec moi (Laurent). Merci !</li>
 	</ul>
 	</p>
@@ -89,7 +89,7 @@ permalink: /about
 	Linktree : <a href="https://linktr.ee/AtelierImproMusicaleParis">https://linktr.ee/AtelierImproMusicaleParis</a><br/>
 	Discord (PJC) : <a href="http://discord.gg/xjPA48eNJz">http://discord.gg/xjPA48eNJz</a><br/>
 	Facebook : <a href="https://www.facebook.com/AtelierImproMusicaleParis">https://www.facebook.com/AtelierImproMusicaleParis</a><br/>
-	Niveau : intermédiaire-avancé ou avancé (<a href="https://www.blog.zikapanam.fr/zap-comment-%C3%A9valuer-son-niveau/">Évaluer son niveau ?</a>)
+	Niveau : intermédiaire-avancé ou avancé (<a href="https://www.blog.zikapanam.fr/zap-comment-%C3%A9valuer-son-niveau/">Évaluer son niveau ?</a>)<br/>
 	</p>
 
 	<p>L'Atelier d'impro musicale de Paris est une structure qui regroupe un peu plus d'une quarantaine de membres et dont le but est de développer les techniques d'improvisation chez des musiciens ayant déjà un niveau adapté.</p>

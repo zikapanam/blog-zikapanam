@@ -25,6 +25,6 @@ permalink: /calendriers
       </li>
       <li>
 <br/>
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=UTC&showPrint=0&showCalendars=0&src=MmxuNWc2cGswMzFmNjZuNGRzajFycDFndHRkNmVocmNAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZnIuZnJlbmNoI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23795548&color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FParis&showPrint=0&showCalendars=0&src=MmxuNWc2cGswMzFmNjZuNGRzajFycDFndHRkNmVocmNAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZnIuZnJlbmNoI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23795548&color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
       </li>
 </ul>

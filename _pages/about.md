@@ -101,7 +101,8 @@ permalink: /about
 	    <li>groupe de travail Jazz ; </li>
 	    <li>groupe de travail Blues ;</li>
 	    <li>groupe de travail Bebop ;</li>
-	    <li>groupe de travail Vulfan.</li>
+	    <li>groupe de travail Vulfan ;</li>
+	    <li>groupe de travail sur la composition comme support à l'improvisation.</li>
 	</ul>
 	</p>
 	<p>Pour plus d'informations cliquez là : <a href='https://docs.google.com/document/d/1PEWbaR4c2sL_xjaSS9H8NhUM6ZgoL_RwLuHWLN2knTI/edit?usp=share_link'>Détails sur ces groupes de travail (GdT) [horaires, lieu, lineup, organisation ...)</a></p>

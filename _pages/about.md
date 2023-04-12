@@ -97,7 +97,7 @@ permalink: /about
 	<p>Les membres de cette structure sont pleinement intégrés à la communauté Paris Jam Club.</p>
 	<p>Plusieurs sous projets à ce jour :
 	<ul>
-	    <li>groupe de travail multi-styles ;</li>
+	    <li>groupe de travail Multi-styles ;</li>
 	    <li>groupe de travail Jazz ; </li>
 	    <li>groupe de travail Blues ;</li>
 	    <li>groupe de travail Bebop ;</li>

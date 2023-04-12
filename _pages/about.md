@@ -17,9 +17,9 @@ permalink: /about
         </div>
 	<p><img style="float:left;padding-right:30px;" src="{{ site.baseurl }}/assets/images/illustration-zikapanam-logo.png" height="300"/></p>
 	<p>
-	Email : <a href="contact@zikapanam.fr">contact@zikapanam.fr</a><br/>
-	Linktree : <a href="https://www.linktr.ee/zikapanam">https://www.linktr.ee/zikapanam</a><br/>
-	Facebook : <a href="https://www.facebook.com/zikapanam">https://www.facebook.com/zikapanam</a><br/>
+	<b>Email</b> : <a href="contact@zikapanam.fr">contact@zikapanam.fr</a><br/>
+	<b>Linktree</b> : <a href="https://www.linktr.ee/zikapanam">https://www.linktr.ee/zikapanam</a><br/>
+	<b>Facebook</b> : <a href="https://www.facebook.com/zikapanam">https://www.facebook.com/zikapanam</a><br/>
 	</p>
 
 	<p>ZIKAPANAM (association loi 1901) fédère une communauté de musiciens et gère le Paris Jam Club, l'Atelier d'impro musicale de Paris et les Musiciens Interdébs de Paris. Nos rencontres se font sur  Paris et sa petite couronne mais des rencontres “en ligne” permettent de toucher des musiciens plus éloignés géographiquement.</p>
@@ -32,11 +32,11 @@ permalink: /about
     <div class="article-post">
 	<p><img style="float:right;padding-left:30px;" src="{{ site.baseurl }}/assets/images/illustration-pjc-logo.png" height="250"/></p>
 	<p>
-	Email : <a href="contact-pjc@zikapanam.fr">contact-pjc@zikapanam.fr</a><br/>
-	Linktree : <a href="https://linktr.ee/JamsMusicales">https://linktr.ee/JamsMusicales</a><br/>
-	Discord (PJC) : <a href="http://discord.gg/xjPA48eNJz">http://discord.gg/xjPA48eNJz</a><br/>
-	Facebook : <a href="https://www.facebook.com/ParisJamClub">https://www.facebook.com/ParisJamClub</a><br/>
-	Niveau : intermédiaire-avancé ou avancé (<a href="https://www.blog.zikapanam.fr/zap-comment-%C3%A9valuer-son-niveau/">Évaluer son niveau ?</a>)<br/>
+	<b>Email</b> : <a href="contact-pjc@zikapanam.fr">contact-pjc@zikapanam.fr</a><br/>
+	<b>Linktree</b> : <a href="https://linktr.ee/JamsMusicales">https://linktr.ee/JamsMusicales</a><br/>
+	<b>Discord (PJC)</b> : <a href="http://discord.gg/xjPA48eNJz">http://discord.gg/xjPA48eNJz</a><br/>
+	<b>Facebook</b> : <a href="https://www.facebook.com/ParisJamClub">https://www.facebook.com/ParisJamClub</a><br/>
+	<b>Niveau</b> : intermédiaire-avancé ou avancé (<a href="https://www.blog.zikapanam.fr/zap-comment-%C3%A9valuer-son-niveau/">Évaluer son niveau ?</a>)<br/>
 	</p>
 	<p>PJC est une communauté créée en octobre 2021. Elle est organisée sur internet. Les musiciens y développent leurs compétences musicales grâce  à des rencontres autour de jams.</p>
 
@@ -60,11 +60,11 @@ permalink: /about
 	<p><img style="float:left;padding-right:30px;" src="{{ site.baseurl }}/assets/images/illustration-mip-logo.png" height="250"/></p>
 
 	<p>
-	Email : <a href="contact-mip@zikapanam.fr">contact-mip@zikapanam.fr</a><br/>
-	Linktree : <a href="https://linktr.ee/Musiciens.Interdebs.Parisiens">https://linktr.ee/Musiciens.Interdebs.Parisiens</a><br/>
-	Discord (MIP) : <a href="https://discord.gg/PgJcKCpyqU">https://discord.gg/PgJcKCpyqU</a><br/>
-	Facebook : <a href="https://www.facebook.com/musiciens.interdebs.parisiens">https://www.facebook.com/musiciens.interdebs.parisiens</a><br/>
-	Niveau : intermédiaire ou débutant (<a href="https://www.blog.zikapanam.fr/zap-comment-%C3%A9valuer-son-niveau/">Évaluer son niveau ?</a>)<br/>
+	<b>Email</b> : <a href="contact-mip@zikapanam.fr">contact-mip@zikapanam.fr</a><br/>
+	<b>Linktree</b> : <a href="https://linktr.ee/Musiciens.Interdebs.Parisiens">https://linktr.ee/Musiciens.Interdebs.Parisiens</a><br/>
+	<b>Discord (MIP)</b> : <a href="https://discord.gg/PgJcKCpyqU">https://discord.gg/PgJcKCpyqU</a><br/>
+	<b>Facebook</b> : <a href="https://www.facebook.com/musiciens.interdebs.parisiens">https://www.facebook.com/musiciens.interdebs.parisiens</a><br/>
+	<b>Niveau</b> : intermédiaire ou débutant (<a href="https://www.blog.zikapanam.fr/zap-comment-%C3%A9valuer-son-niveau/">Évaluer son niveau ?</a>)<br/>
 	</p>
 	<p>La communauté MIP, créée en novembre 2022,  permet d'organiser et participer à des sessions sur des reprises dans le cadre de collectifs de musiciens où il fait bon vivre. Les musiciens intermédiaires et débutants y joue dans une ambiance à la cool, pour le fun mais appliquée et impliquée.</p>
 	<p>Les collectifs suivants ont été créés ou sont en cours de constitution :
@@ -85,11 +85,11 @@ permalink: /about
     <div class="article-post">
 	<p><img style="float:right;padding-left:30px;" src="{{ site.baseurl }}/assets/images/illustration-aimp-logo.png" height="250"/></p>
 	<p>
-	Email : <a href="contact-aimp@zikapanam.fr">contact-aimp@zikapanam.fr</a><br/>
-	Linktree : <a href="https://linktr.ee/AtelierImproMusicaleParis">https://linktr.ee/AtelierImproMusicaleParis</a><br/>
-	Discord (PJC) : <a href="http://discord.gg/xjPA48eNJz">http://discord.gg/xjPA48eNJz</a><br/>
-	Facebook : <a href="https://www.facebook.com/AtelierImproMusicaleParis">https://www.facebook.com/AtelierImproMusicaleParis</a><br/>
-	Niveau : intermédiaire-avancé ou avancé (<a href="https://www.blog.zikapanam.fr/zap-comment-%C3%A9valuer-son-niveau/">Évaluer son niveau ?</a>)<br/>
+	<b>Email</b> : <a href="contact-aimp@zikapanam.fr">contact-aimp@zikapanam.fr</a><br/>
+	<b>Linktree</b> : <a href="https://linktr.ee/AtelierImproMusicaleParis">https://linktr.ee/AtelierImproMusicaleParis</a><br/>
+	<b>Discord (PJC)</b> : <a href="http://discord.gg/xjPA48eNJz">http://discord.gg/xjPA48eNJz</a><br/>
+	<b>Facebook</b> : <a href="https://www.facebook.com/AtelierImproMusicaleParis">https://www.facebook.com/AtelierImproMusicaleParis</a><br/>
+	<b>Niveau</b> : intermédiaire-avancé ou avancé (<a href="https://www.blog.zikapanam.fr/zap-comment-%C3%A9valuer-son-niveau/">Évaluer son niveau ?</a>)<br/>
 	</p>
 
 	<p>L'Atelier d'impro musicale de Paris est une structure qui regroupe un peu plus d'une quarantaine de membres et dont le but est de développer les techniques d'improvisation chez des musiciens ayant déjà un niveau adapté.</p>

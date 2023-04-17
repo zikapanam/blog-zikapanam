@@ -50,5 +50,7 @@ permalink: /testimonials
 
 {{ testimonials[3].content }}
 
-      </li>
 </ul>
+
+      </li>
+<ul>

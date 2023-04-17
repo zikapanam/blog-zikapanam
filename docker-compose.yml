@@ -2,6 +2,6 @@ jekyll:
     image: jekyll/jekyll:latest
     command: jekyll serve --force_polling
     ports:
-        - 4000:4000
+        - 8080:8080
     volumes:
         - .:/srv/jekyll

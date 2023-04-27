@@ -7,21 +7,22 @@ permalink: /testimonials
 
 
 <ul class="tab" data-tab="47e7fac6-28a7-4470-a67b-1e7406c42f73" data-name="temoignages">
-  
+
       <li class="active">
-          <a href="#">PJC </a>
+          
+          <a id="PJC" href="#">PJC </a>
       </li>
   
       <li>
-          <a href="#">Orgas PJC </a>
+          <a id="OrgasPJC" href="#">Orgas PJC </a>
       </li>
   
       <li>
-          <a href="#">MIP </a>
+          <a id="MIP" href="#">MIP </a>
       </li>
   
       <li>
-          <a href="#">Leaders MIP </a>
+          <a id="LeadersMIP" href="#">Leaders MIP </a>
       </li>
   
 </ul>
@@ -50,7 +51,6 @@ permalink: /testimonials
 
 {{ testimonials[3].content }}
 
-</ul>
 
       </li>
-<ul>
+</ul>

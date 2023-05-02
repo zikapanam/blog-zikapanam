@@ -20,11 +20,10 @@ permalink: /calendriers
   
       <li class="active">
 <br/>
-
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FParis&showPrint=0&showCalendars=0&src=bTFvdjNzaGdrcWd1ODFpMjdkOW02ZW9mZTViNnR1YTFAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZnIuZnJlbmNoI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23009688&color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23B39DDB&ctz=Europe%2FParis&showPrint=0&title=PJC%20Prochaines%20Rencontres&showCalendars=0&src=Ym5iODQwMDFnbzUzdWIwbGdkZWgzODVqMzVrcjlrcHBAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%238E24AA" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
       </li>
       <li>
 <br/>
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FParis&showPrint=0&showCalendars=0&src=MmxuNWc2cGswMzFmNjZuNGRzajFycDFndHRkNmVocmNAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZnIuZnJlbmNoI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23795548&color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%234285F4&ctz=Europe%2FParis&title=MIP%20Prochaines%20Rencontres&showPrint=0&showCalendars=0&src=ZnIuZnJlbmNoI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=MjN0aDlscW45c3JtaW5vMHJ0aWgybWYxbmRvM29jbTRAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%230B8043&color=%234285F4" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
       </li>
 </ul>

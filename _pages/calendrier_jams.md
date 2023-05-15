@@ -20,10 +20,8 @@ permalink: /calendriers
   
       <li class="active">
 <br/>
-      <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%239E69AF&ctz=Europe%2FParis&showPrint=0&showCalendars=0&title=Prochaines%20rencontres%20PJC&src=ZnIuZnJlbmNoI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=YWNqbXQwcmprZW9ldWIzaW4zam01NGlucW02bzUwb3VAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%230B8043&color=%238E24AA" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-      </li>
-      <li>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23B39DDB&ctz=Europe%2FParis&showTz=1&showCalendars=0&showPrint=0&title=(PJC)%20Les%20prochaines%20rencontres&src=YWNqbXQwcmprZW9ldWIzaW4zam01NGlucW02bzUwb3VAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZnIuZnJlbmNoI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%239E69AF&color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+</li>
 <br/>
-      <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FParis&title=Prochaines%20rencontres%20MIP&showPrint=0&showCalendars=0&src=ZnIuZnJlbmNoI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=MmdzMnNmamNraHBvMnBnYWpsaHQxZDZkNWtmbTFiY2FAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%230B8043&color=%234285F4" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-      </li>
+      <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FParis&showPrint=0&showCalendars=0&title=(MIP)%20Les%20prochaines%20rencontres&src=MmdzMnNmamNraHBvMnBnYWpsaHQxZDZkNWtmbTFiY2FAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZnIuZnJlbmNoI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%234285F4&color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe></li>
 </ul>

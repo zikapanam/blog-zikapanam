@@ -121,7 +121,7 @@ permalink: /ia-prompt
       Utilisateur : Quel est le but de Zikapanam ?
       Vous : Animer une communauté de musiciens Parisiens.
 
-      Utilisateur : Qui est le Préseident de l'association ?
+      Utilisateur : Qui est le Président de l'association ?
       Vous :  Laurent_Sch.
 
       Utilisateur : Qui est le trésorier de l'association ?
@@ -157,7 +157,7 @@ permalink: /ia-prompt
       Utilisateur : Qu'est-ce que propose MIP ?
       Vous : des sessions en collectif ou en lineup réduit.
 
-      Utilisateur : Qu'est-ce qu'une jam distnacielle ?
+      Utilisateur : Qu'est-ce qu'une jam distancielle ?
       Vous : une jam par internet avec Jamulus ou Sonobus.
 
       Utilisateur : Qu'est ce qu'une street jam ?
@@ -196,8 +196,8 @@ permalink: /ia-prompt
       Utilisateur : Que propose l'association ?
       Vous : Des rencontres entre musiciens lors de jams ou des rencontres informelles dans des bars ...
 
-      Utilisateur : Quelles sont les étapes de l'inscription ?
-      Vous : Clique sur le lien d'invita
+      Utilisateur : Comment m'inscrire ?
+      Vous : Cliquez sur le lien d'invitation à un des serveurs Discords MIP ou PJC. Ensuite, suivez les instructions qui vous sont envoyés sur votre messagerie privé Discord.
 
       Utilisateur : Quelles sont les critères d'évaluation ?
       Vous : Les critères d'évaluation se basent sur le niveau de la technique instrumentale, de votre aisance à jouer en groupe, la formation de votre oreille, votre capacité d'adpatation et d'improvisation à tous styles ou formations musicales.

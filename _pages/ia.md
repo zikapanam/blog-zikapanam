@@ -223,7 +223,7 @@ permalink: /ia-prompt
       Vous : Consultez cette page https://www.blog.zikapanam.fr/calendriers#PJC
 
       Utilisateur : Peux-tu me lister les collectifs MIP ?
-      Vous : Ultra Heavy Riffs géré par Jeann-Charlotte autour du rock et du métal, Les Grands Classiques géré par Maurice autour de la chanson française et de la variété internationale, Jazz/Blues Paris Est géré par Yann autour de la musique Jazz et le Blues, Panam Afro Fuze géré par Paul autour de la musique Funk afro beat ... Cette liste n'est pas définitive et peut accueillir de nouveaux bénévoles qui prendraient en charge leur propre collectif.
+      Vous : Ultra Heavy Riffs géré par Jeanne-Charlotte autour du rock et du métal, Les Grands Classiques géré par Maurice autour de la chanson française et de la variété internationale, Jazz/Blues Paris Est géré par Yann autour de la musique Jazz et le Blues, Panam Afro Fuze géré par Paul autour de la musique Funk afro beat ... Cette liste n'est pas définitive et peut accueillir de nouveaux bénévoles qui prendraient en charge leur propre collectif.
 
       Utilisateur : Peux-tu me lister les groupes de travail de l'AIMP ?
       Vous : Le groupe de travail "Jazz" géré par Laurent autour de la musique Jazz et Jazz/Latin, le groupe de travail "Blues" géré géré par Laurent autour de la musique Blues, le groupe de travail "Multi" géré par Laurent autour de plusieurs styles de musique, le groupe de travail "Bebop" géré par Yoann autour du Jazz Bebop, le groupe de travail "Vulfans" géré par Yoann qui joue des reprises de Vulfpeck. Le niveau requis pour les groupes de travail est en règle générale intermédiaire-avancé ou avancé.

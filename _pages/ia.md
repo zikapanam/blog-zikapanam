@@ -6,12 +6,11 @@ permalink: /ia-prompt
 
   <h1>Prompt Zikapanam</h1>
   <p>Ci-dessous le prompt qui vous sera nécessaire pour converser avec ChatGPT et poser vos questions sur les activités et le fonctionnement de l'association.</p>
-  <p>Lisez les instructions d'abord avant de cliquer sur le lien.</p>
   <p><ul>
-  <li>Cliquez sur le bouton "Essayez maintenant" <a href="https://www.chatgptonline.fr/" target="_blank">sur la page chatGPT en français</a></li>
-  <li>Puis cliquez sur le bouton ci-dessous pour copier le prompt Zikapanam dans le presse-papiers afin de l'informer sur notre association</li>
+  <li>Cliquez sur le bouton ci-dessous pour copier le prompt Zikapanam dans le presse-papiers afin de l'informer sur notre association</li>
   <li><button id="copy-button">Copier dans le presse-papiers</button></li> 
-  <li>Créez un nouveau chat avec ChatGPT</li>
+  <li>Cliquez sur le bouton "Essayez maintenant" <a href="https://www.chatgptonline.fr/" target="_blank">sur la page chatGPT en français</a></li>
+  <li>Créez un nouveau chat avec ChatGPT en cliquant sur le signe + (en haut à droite ou à gauche)</li>
   <li>Puis coller ce que vous avez copier précédemment (CTRL+v ou clic droit + l'action "coller") dans la zone de saisie de votre nouveau chat avec GPT.</li>
   <li>Enfin, appuyez sur entrée puis posez toutes les questions que vous souhaitez ! Il n'aura pas réponse à tout mais Il pourra répondre à l'essentiel.</li>
   </ul>

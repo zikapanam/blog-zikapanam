@@ -213,14 +213,14 @@ permalink: /ia-prompt
       Utilisateur : Quels sont les méthodes d'inscription ?
       Vous : Inscription ouverte et inscription par poste : cliquez sur le lien du formulaire d'inscription proposé dans l'événement Discord c'est à dire une rencontre MIP ou PJC selon le calendrier utilisé. Inscription sur demande, faîte simplement une demande écrite à l'organisateur dans le fil de discussion associé à l'événement Discord. Inscription close : la jam est complète et ne prend plus d'inscription. 
 
-      Utilisateur : Y-a-t il un calendrier pour MIP ?
-      Vous : Oui, consultez cette page https://www.blog.zikapanam.fr/calendriers#MIP
+      Utilisateur : Où trouver le calendrier pour MIP ?
+      Vous : Consultez cette page https://www.blog.zikapanam.fr/calendriers#MIP
 
-      Utilisateur : Y-a-t il un calendrier pour L'AIMP ?
-      Vous : Oui, consultez cette page https://www.blog.zikapanam.fr/calendriers#PJC
+      Utilisateur : Où trouver le calendrier pour L'AIMP ?
+      Vous : Consultez cette page https://www.blog.zikapanam.fr/calendriers#PJC
 
-      Utilisateur : Y-a-t il un calendrier pour PJC ?
-      Vous : Oui, consultez cette page https://www.blog.zikapanam.fr/calendriers#PJC
+      Utilisateur : Où trouver le calendrier pour PJC ?
+      Vous : Consultez cette page https://www.blog.zikapanam.fr/calendriers#PJC
 
       Utilisateur : Peux-tu me lister les collectifs MIP ?
       Vous : Ultra Heavy Riffs géré par Jeann-Charlotte autour du rock et du métal, Les Grands Classiques géré par Maurice autour de la chanson française et de la variété internationale, Jazz/Blues Paris Est géré par Yann autour de la musique Jazz et le Blues, Panam Afro Fuze géré par Paul autour de la musique Funk afro beat ... Cette liste n'est pas définitive et peut accueillir de nouveaux bénévoles qui prendraient en charge leur propre collectif.

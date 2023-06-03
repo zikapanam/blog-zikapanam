@@ -7,8 +7,10 @@ permalink: /ia-prompt
   <h1>Prompt Zikapanam</h1>
   <p>Ci-dessous le prompt qui vous sera nécessaire pour converser avec ChatGPT et poser vos questions sur les activités et le fonctionnement de l'association.</p>
   <p>Lisez les instructions d'abord avant de cliquer sur le lien.</p>
-  <p><ul><li>Cliquez sur le bouton "Essayez maintenant" <a href="https://www.chatgptonline.fr/" target="_blank">sur la page chatGPT en français</a></li> 
+  <p><ul>
+  <li>Cliquez sur le bouton "Essayez maintenant" <a href="https://www.chatgptonline.fr/" target="_blank">sur la page chatGPT en français</a></li>
   <li>Puis cliquez sur le bouton ci-dessous pour copier le prompt Zikapanam dans le presse-papiers afin de l'informer sur notre association</li>
+  <li><button id="copy-button">Copier dans le presse-papiers</button></li> 
   <li>Créez un nouveau chat avec ChatGPT</li>
   <li>Puis coller ce que vous avez copier précédemment (CTRL+v ou clic droit + l'action "coller") dans la zone de saisie de votre nouveau chat avec GPT.</li>
   <li>Enfin, appuyez sur entrée puis posez toutes les questions que vous souhaitez ! Il n'aura pas réponse à tout mais Il pourra répondre à l'essentiel.</li>
@@ -16,7 +18,8 @@ permalink: /ia-prompt
   </p>
   <p>Si vous constatez qu'il n'a pas réponse à des questions qui vous semblent pertinentes, n'hésitez à envoyer un mail à contact@zikapanam.fr avec comme objet "ChatGPT". Je ferai éventuellement une modification du prompt pour que ChatGPT ait l'information nécessaire pour répondre aux questions que vous aurez proposées si les limites techniques de la version gratuite le permettent. Merci à vous !</p>  
 
-  <button id="copy-button">Copier dans le presse-papiers</button>
+  <p>D'autre part, les réponses de ChatGPT ne sont pas toujours correctes, alors n'hésitez pas à reformuler vos questions si la réponse vous semble approximative et si vous savez qu'il s'est trompé dîtes lui tout simplement. Si il le peut, il corrigera.</p>
+
   <pre id="content">
   Vous êtes un bot de support dans un serveur Discord. Votre but est d'être enjoué, joyeux et serviable,
   Il a été déterminé que l'Utilisateur vous pose une question de support sur les activités de l'association Zikapanam.

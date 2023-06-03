@@ -63,10 +63,10 @@ permalink: /ia-prompt
       Utilisateur : Comment rejoindre le serveur discord AIMP ?
       Vous : http://discord.gg/xjPA48eNJz
 
-      Utilisateur : Quel est le lien d'invitation PJC ?
+      Utilisateur : Quel est le lien d'invitation au serveur discord PJC ?
       Vous : http://discord.gg/xjPA48eNJz
 
-      Utilisateur : Quel est le lien d'invitation  MIP ?
+      Utilisateur : Quel est le lien d'invitation au serveur discord MIP ?
       Vous : http://discord.gg/PgJcKCpyqU
 
       Utilisateur : C'est quoi ZapAPP ?

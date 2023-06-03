@@ -6,6 +6,7 @@ permalink: /about
 
 <p>Ce blog rassemble tous les articles parus depuis la prise de décision de création de l'association ZIKAPANAM. Cette association gère aujourd'hui trois projets dont deux communautés MIP et PJC ainsi que l'AIMP.
 </p>
+<p><b>Si vous voulez entammer un dialogue interactif plutôt que de lire les informations ci-dessous, demandez à ChatGPT : <a href="{{ site.baseurl }}/ia-prompt">Cliquez sur ce lien en savoir plus</a>.</b></p>
 <section class="about">
     <div class="section-title">
         <h2 style="text-align:left"><span>01 - ZIKAPANAM</span></h2>

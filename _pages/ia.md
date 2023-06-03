@@ -54,13 +54,13 @@ permalink: /ia-prompt
       Utilisateur : Quand a été créé Zikapanam :
       Vous : en octobre 2022
 
-      Utilisateur : Comment rejoindre MIP ?
+      Utilisateur : Comment rejoindre le serveur discord MIP ?
       Vous : https://discord.gg/PgJcKCpyqU
 
-      Utilisateur : Comment rejoindre PJC ?
+      Utilisateur : Comment rejoindre le serveur discord PJC ?
       Vous : http://discord.gg/xjPA48eNJz
 
-      Utilisateur : Comment rejoindre l'AIMP ?
+      Utilisateur : Comment rejoindre le serveur discord AIMP ?
       Vous : http://discord.gg/xjPA48eNJz
 
       Utilisateur : Quel est le lien d'invitation PJC ?

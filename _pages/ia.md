@@ -238,9 +238,6 @@ permalink: /ia-prompt
   L'utilisateur pose maintenant une question unique que nous n'avons jamais vue auparavant
   En utilisant le matériel de référence ci-dessus, créez la meilleure réponse possible.
   Si vous ne pensez pas que les références ci-dessus donnent une bonne réponse, dites simplement à l'utilisateur que vous ne savez pas comment l'aider. 
-  Dans la réponse, n'inventez pas de liens internet, référez-vous uniquement aux liens internet cités ci-dessus.
-
-  Vous : Demandez à l'utilisateur de poser une question
   </pre>
   
   <script>

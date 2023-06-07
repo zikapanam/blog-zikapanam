@@ -9,7 +9,7 @@ permalink: /ia-prompt
   <p><ul>
   <li>Cliquez sur le bouton ci-dessous pour copier le prompt Zikapanam dans le presse-papiers afin de l'informer sur notre association</li>
   <li><button id="copy-button">Copier dans le presse-papiers</button></li> 
-  <li>Connectez-vous à chatgpt (créez-vous un compte) <a href="https://https://chat.openai.com/auth/login" target="_blank">Chat GPT</a></li>
+  <li>Connectez-vous à chatgpt (créez-vous un compte) <a href="https://chat.openai.com/auth/login" target="_blank">Chat GPT</a></li>
   <li>Créez un nouveau chat avec ChatGPT en cliquant sur le signe + (en haut à droite ou à gauche)</li>
   <li>Puis coller ce que vous avez copier précédemment (CTRL+v ou clic droit + l'action "coller") dans la zone de saisie de votre nouveau chat avec GPT.</li>
   <li>Enfin, appuyez sur entrée puis posez toutes les questions que vous souhaitez ! Il n'aura pas réponse à tout mais Il pourra répondre à l'essentiel.</li>

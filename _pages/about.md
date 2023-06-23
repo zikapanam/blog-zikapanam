@@ -31,7 +31,7 @@ permalink: /about
     </div>
     <div class="article-post">
 	<p><img style="float:right;padding-left:30px;" src="{{ site.baseurl }}/assets/images/illustration-pjc-logo.png" height="250"/></p>
-	<p>
+ 	<p>
 	<b>Email</b> : <a href="contact-pjc@zikapanam.fr">contact-pjc@zikapanam.fr</a><br/>
 	<b>Linktree</b> : <a href="https://linktr.ee/JamsMusicales">https://linktr.ee/JamsMusicales</a><br/>
 	<b>Discord (PJC)</b> : <a href="http://discord.gg/xjPA48eNJz">http://discord.gg/xjPA48eNJz</a><br/>
@@ -105,8 +105,9 @@ permalink: /about
 	    <li>groupe de travail sur la composition comme support à l'improvisation.</li>
 	</ul>
 	</p>
-	<p>Pour plus d'informations cliquez là : <a href='https://docs.google.com/document/d/1PEWbaR4c2sL_xjaSS9H8NhUM6ZgoL_RwLuHWLN2knTI/edit?usp=share_link'>Détails sur ces groupes de travail (GdT) [horaires, lieu, lineup, organisation ...)</a></p>
-    </div>
+	<p>Plus d'informations sur Discord.
+	</p>
+   </div>
 </section>
 <section class="about">
    <div class="section-title">

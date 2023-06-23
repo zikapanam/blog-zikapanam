@@ -100,7 +100,6 @@ permalink: /about
 	    <li>groupe de travail Multi-styles ;</li>
 	    <li>groupe de travail Jazz ; </li>
 	    <li>groupe de travail Blues ;</li>
-	    <li>groupe de travail Bebop ;</li>
 	    <li>groupe de travail Vulfan ;</li>
 	    <li>groupe de travail sur la composition comme support à l'improvisation.</li>
 	</ul>

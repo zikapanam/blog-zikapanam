@@ -37,6 +37,7 @@ permalink: /about
 	<b>Discord (PJC)</b> : <a href="http://discord.gg/xjPA48eNJz">Lien d'invitation (Cliquez ici pour rejoindre le Discord PJC)</a><br/>
 	<b>Facebook</b> : <a href="https://www.facebook.com/ParisJamClub">https://www.facebook.com/ParisJamClub</a><br/>
 	<b>Niveau</b> : intermédiaire-avancé ou avancé (<a href="https://www.blog.zikapanam.fr/zap-comment-%C3%A9valuer-son-niveau/">Évaluer son niveau ?</a>)<br/>
+	<b>YouTube </b> : <a href="https://www.youtube.com/@parisjamclub/playlists">Paris Jam Club (Playlists de vidéos)</a><br/>
 	</p>
 	<p>PJC est une communauté créée en octobre 2021. Elle est organisée sur internet. Les musiciens y développent leurs compétences musicales grâce  à des rencontres autour de jams.</p>
 

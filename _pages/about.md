@@ -89,7 +89,7 @@ permalink: /about
 	<li>D'autres à venir d'ici octobre ! Connectez-vous !</li>
 	</ul>
 	</p>
-	<p>Plusieurs types de jams à ce jour :</p>
+	<p>Plusieurs types de jams à ce jour :
 	<ul>
 	<li>jams en studio de répétition ;</li>
 	<li>sorties jams (pour aller en groupe à une scène ouverte ou une jam session qui a pignon sur rue)</li>

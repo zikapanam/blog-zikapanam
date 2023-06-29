@@ -52,14 +52,14 @@ permalink: /about
  	</p>
  	<p>PJC propose aussi de nombreux collectifs :
 	<ul>
-	<li>Atelier concert Blues (AIMP - Laurent)</li>
-	<li>Atelier concert Jazz (AIMP - Laurent)</li>
-	<li>Atelier concert Multi (Soul, Funk, Pop, Rock, Groove) (AIMP - Laurent)</li>
-	<li>Atelier compo comme support à l'impro (AIMP - Laurent)</li>
-	<li>Collectif Vulfans (Reprises de Vulfpeck - Yoann) </li>
-	<li>Collectif Funk R'N'B Soul (Philippe)</li>
-	<li>Collectif Repassez-moi le standard ! (Jazz - Fred)</li>
-	<li>... D'autres à venir d'ici octobre ! <a href="http://discord.gg/xjPA48eNJz">Connectez-vous</a> !</li>
+	<li>Atelier concert Blues (AIMP - Laurent) <a href="https://discord.com/channels/893372971073277962/1119721934490451988">[Présentation]</a> ;</li>
+	<li>Atelier concert Jazz (AIMP - Laurent) <a href="https://discord.com/channels/893372971073277962/1119721934490451988">[Présentation]</a> ;</li>
+	<li>Atelier concert Multi (Soul, Funk, Pop, Rock, Groove) (AIMP - Laurent) <a href="https://discord.com/channels/893372971073277962/1119721934490451988">[Présentation]</a> ;</li>
+	<li>Atelier compo comme support à l'impro (AIMP - Laurent) <a href="https://discord.com/channels/893372971073277962/1121704059561332837">[Présentation]</a> ;</li>
+	<li>Collectif Vulfans (Reprises de Vulfpeck - Yoann) <a href="https://discord.com/channels/893372971073277962/1119742878604873759">[Présentation]</a> ;</li>
+	<li>Collectif Funk R'N'B Soul (Philippe) <a href="https://discord.com/channels/893372971073277962/1121025765161582632">[Présentation]</a> ;</li>
+	<li>Collectif Repassez-moi le standard ! (Jazz - Fred) <a href="https://discord.com/channels/893372971073277962/1122424995939889164">[Présentation]</a> ;</li>
+	<li>... D'autres à venir d'ici octobre ! <a href="http://discord.gg/xjPA48eNJz">Connectez-vous</a> !</li>	
 	</ul>
 	</p>
    </div>
@@ -82,10 +82,10 @@ permalink: /about
 	<p>La communauté MIP, créée en novembre 2022,  permet d'organiser et participer à des sessions sur des reprises dans le cadre de collectifs de musiciens où il fait bon vivre. Les musiciens intermédiaires et débutants y joue dans une ambiance à la cool, pour le fun mais appliquée et impliquée.</p>
 	<p>Les collectifs suivants ont été créés ou sont en cours de constitution :
 	<ul>
-	<li>Collectif Ultra Heavy Riffs (Jeanne-Charlotte) : Du rock au métal [<a href='https://discord.com/channels/1038909359712895058/1052703682799599666/1052703682799599666'>Présentation</a>] ;</li>
-	<li>Collectif Les Grands Classiques (Maurice) : Chanson française et variété internationale [<a href='https://discord.com/channels/1038909359712895058/1062782176501972992/1062782176501972992'>Présentation</a>] ;</li>
-	<li>Collectif Jazz/Blues Paris Est (Yann) : Jazz / Blues et RnB [<a href='https://discord.com/channels/1038909359712895058/1050536243659804702/1050536243659804702'>Présentation</a>] ;</li>
-	<li>Collectif Panam AfroFuze (Paul) : Jazz, Blues, Soul, Funk, Afro Beat. [<a href='https://discord.com/channels/1038909359712895058/1092582664088850432/1092582664088850432'>Présentation</a>] ;</li>
+	<li>Collectif Ultra Heavy Riffs (Jeanne-Charlotte) : Du rock au métal <a href='https://discord.com/channels/1038909359712895058/1052703682799599666/1052703682799599666'>[Présentation]</a> ;</li>
+	<li>Collectif Les Grands Classiques (Maurice) : Chanson française et variété internationale <a href='https://discord.com/channels/1038909359712895058/1062782176501972992/1062782176501972992'>[Présentation]</a> ;</li>
+	<li>Collectif Jazz/Blues Paris Est (Yann) : Jazz / Blues et RnB <a href='https://discord.com/channels/1038909359712895058/1050536243659804702/1050536243659804702'>[Présentation]</a> ;</li>
+	<li>Collectif Panam AfroFuze (Paul) : Jazz, Blues, Soul, Funk, Afro Beat. <a href='https://discord.com/channels/1038909359712895058/1092582664088850432/1092582664088850432'>[Présentation]</a> ;</li>
 	<li>D'autres à venir d'ici octobre ! <a href="https://discord.gg/PgJcKCpyqU">Connectez-vous</a> !</li>
 	</ul>
 	</p>

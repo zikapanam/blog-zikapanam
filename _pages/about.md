@@ -34,7 +34,7 @@ permalink: /about
  	<p>
 	<b>Email</b> : <a href="contact-pjc@zikapanam.fr">contact-pjc@zikapanam.fr</a><br/>
 	<b>Linktree</b> : <a href="https://linktr.ee/JamsMusicales">https://linktr.ee/JamsMusicales</a><br/>
-	<b>Discord (PJC)</b> : <a href="http://discord.gg/xjPA48eNJz">http://discord.gg/xjPA48eNJz</a><br/>
+	<b>Discord (PJC)</b> : <a href="http://discord.gg/xjPA48eNJz">Lien d'invitation (Cliquez ici pour rejoindre le Discord PJC)</a><br/>
 	<b>Facebook</b> : <a href="https://www.facebook.com/ParisJamClub">https://www.facebook.com/ParisJamClub</a><br/>
 	<b>Niveau</b> : intermédiaire-avancé ou avancé (<a href="https://www.blog.zikapanam.fr/zap-comment-%C3%A9valuer-son-niveau/">Évaluer son niveau ?</a>)<br/>
 	</p>
@@ -62,7 +62,7 @@ permalink: /about
 	<p>
 	<b>Email</b> : <a href="contact-mip@zikapanam.fr">contact-mip@zikapanam.fr</a><br/>
 	<b>Linktree</b> : <a href="https://linktr.ee/Musiciens.Interdebs.Parisiens">https://linktr.ee/Musiciens.Interdebs.Parisiens</a><br/>
-	<b>Discord (MIP)</b> : <a href="https://discord.gg/PgJcKCpyqU">https://discord.gg/PgJcKCpyqU</a><br/>
+	<b>Discord (MIP)</b> : <a href="https://discord.gg/PgJcKCpyqU">Lien d'invitation (Cliquez ici pour rejoindre le Discord MIP)</a><br/>
 	<b>Facebook</b> : <a href="https://www.facebook.com/musiciens.interdebs.parisiens">https://www.facebook.com/musiciens.interdebs.parisiens</a><br/>
 	<b>Niveau</b> : intermédiaire ou débutant (<a href="https://www.blog.zikapanam.fr/zap-comment-%C3%A9valuer-son-niveau/">Évaluer son niveau ?</a>)<br/>
 	</p>
@@ -76,7 +76,14 @@ permalink: /about
 	<li>On est ouvert à la création de nouveaux collectifs, n'hésitez à venir en discuter avec moi (Laurent). Merci !</li>
 	</ul>
 	</p>
-    </div>
+    <p>
+	<p>Plusieurs types de jams à ce jour :</p>
+	<ul>
+	<li>jams en studio de répétition ;</li>
+	<li>sorties jams (pour aller en groupe à une scène ouverte ou une jam session qui a pignon sur rue)</li>
+	</ul>
+	</p>
+	</div>
 </section>
 <section class="about">
     <div class="section-title">
@@ -87,7 +94,7 @@ permalink: /about
 	<p>
 	<b>Email</b> : <a href="contact-aimp@zikapanam.fr">contact-aimp@zikapanam.fr</a><br/>
 	<b>Linktree</b> : <a href="https://linktr.ee/AtelierImproMusicaleParis">https://linktr.ee/AtelierImproMusicaleParis</a><br/>
-	<b>Discord (PJC)</b> : <a href="http://discord.gg/xjPA48eNJz">http://discord.gg/xjPA48eNJz</a><br/>
+	<b>Discord (PJC)</b> : <a href="http://discord.gg/xjPA48eNJz">Lien d'invitation (Cliquez ici pour rejoindre le Discord PJC)</a><br/>
 	<b>Facebook</b> : <a href="https://www.facebook.com/AtelierImproMusicaleParis">https://www.facebook.com/AtelierImproMusicaleParis</a><br/>
 	<b>Niveau</b> : intermédiaire-avancé ou avancé (<a href="https://www.blog.zikapanam.fr/zap-comment-%C3%A9valuer-son-niveau/">Évaluer son niveau ?</a>)<br/>
 	</p>
@@ -133,5 +140,30 @@ permalink: /about
 	</p>
 	<p>L'association ZIKAPANAM organise chaque année une ou plusieurs soirées jams c’est à dire des manifestations exceptionnelles où les membres de Paris Jam Club jouent sur scène devant un public.</p>
 
+    </div>
+</section>
+<section class="about">
+    <div class="section-title">
+	<h2 style="text-align:right"><span>07 - Cotisation Zikapanam</span></h2>
+    </div>
+    <div class="article-post">
+	<p>
+	<img style="float:right;padding-left:30px;" src="{{ site.baseurl }}/assets/images/registration-phil-desforges-L0K-87Ybwio-unsplash.jpg" height="250"/>
+	</p>
+	<p>L'association ZIKAPANAM <a href="http://www.blog.zikapanam.fr/fr-en-zap-adhesion-cotisants-et-non-cotisants/">a besoin de fonds pour exister</a> mais reste à destination des plus modestes.
+	</p>
+
+	<p>
+	Les propositions ci-dessous s'entendent sur les serveurs MIP & PJC ET dans le respect des modalités d'inscription de chaque événément.
+	<ul>
+	<li>La participation aux jams qui sont organisées est gratuite sous réserve de places disponibles</li>
+	<li>La particiption et l'organisation de collectifs nécessite d'être cotisant.</li>
+	<li>L'organisation de jams nécessite d'être cotisant.</li>
+	</ul>
+	</p>
+	<p>La cotisation modique ne vous sera demandé qu'après avoir participé à une ou deux rencontres musicales dans un collectif (MIP ou PJC) ou avant votre première organisation de rencontres ou création de collectif dans l'association.</p>
+
+	<p>Actuellement, la cotisation est de 25 € ou 50 € (au choix) pour l'année civile. La cotisation des personnes qui s'inscrivent à partir de septembre sera valable pour la fin de l'année et l'année civile n+1.
+	</p>
     </div>
 </section>

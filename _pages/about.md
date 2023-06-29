@@ -150,7 +150,7 @@ permalink: /about
 	<p>
 	<img style="float:right;padding-left:30px;" src="{{ site.baseurl }}/assets/images/concert.webp" height="250"/>
 	</p>
-	<p>L'association ZIKAPANAM organise chaque année une ou plusieurs soirées jams c’est à dire des manifestations exceptionnelles où les membres de Paris Jam Club jouent sur scène devant un public.</p>
+	<p>L'association ZIKAPANAM organise chaque année une ou plusieurs soirées jams c’est à dire des manifestations exceptionnelles où les membres de Paris Jam Club et bientôt de MIP jouent sur scène devant un public.</p>
 
     </div>
 </section>

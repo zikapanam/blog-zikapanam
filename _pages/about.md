@@ -168,8 +168,8 @@ permalink: /about
 	<p>
 	Les propositions ci-dessous s'entendent sur les serveurs MIP & PJC ET dans le respect des modalités d'inscription de chaque événément.
 	<ul>
-	<li>La participation aux jams qui sont organisées est gratuite sous réserve de places disponibles</li>
-	<li>La particiption et l'organisation de collectifs nécessite d'être cotisant.</li>
+	<li>La participation aux jams qui sont organisées ne nécessite pas d'être cotisant (sous réserve de places disponibles) ;</li>
+	<li>La particiption et l'organisation de collectifs nécessite d'être cotisant ;</li>
 	<li>L'organisation de jams nécessite d'être cotisant.</li>
 	</ul>
 	</p>

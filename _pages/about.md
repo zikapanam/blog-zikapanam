@@ -52,14 +52,14 @@ permalink: /about
  	</p>
  	<p>PJC propose aussi de nombreux collectifs :
 	<ul>
+	<li>Atelier concert Blues (AIMP)</li>
+	<li>Atelier concert Jazz (AIMP)</li>
+	<li>Atelier concert Multi (Soul, Funk, Pop, Rock, Groove) (AIMP)</li>
+	<li>Atelier compo comme support à l'impro (AIMP)</li>
 	<li>Collectif Vulfans (Reprises de Vulfpeck)</li>
 	<li>Collectif Funk R'N'B Soul</li>
 	<li>Collectif Repassez-moi le standard ! (Jazz)</li>
-	<li>Atelier concert Blues</li>
-	<li>Atelier concert Jazz</li>
-	<li>Atelier concert Multi (Soul, Funk, Pop, Rock, Groove)</li>
-	<li>Atelier compo comme support à l'impro</li>
-	<li>... D'autres à venir d'ici octobre ! Connectez-vous !</li>
+	<li>... D'autres à venir d'ici octobre ! <a href="http://discord.gg/xjPA48eNJz">Connectez-vous</a> !</li>
 	</ul>
 	</p>
    </div>
@@ -86,7 +86,7 @@ permalink: /about
 	<li>Collectif Les Grands Classiques (Maurice) : Chanson française et variété internationale [<a href='https://discord.com/channels/1038909359712895058/1062782176501972992/1062782176501972992'>Présentation</a>] ;</li>
 	<li>Collectif Jazz/Blues Paris Est (Yann) : Jazz / Blues et RnB [<a href='https://discord.com/channels/1038909359712895058/1050536243659804702/1050536243659804702'>Présentation</a>] ;</li>
 	<li>Collectif Panam AfroFuze (Paul) : Jazz, Blues, Soul, Funk, Afro Beat. [<a href='https://discord.com/channels/1038909359712895058/1092582664088850432/1092582664088850432'>Présentation</a>] ;</li>
-	<li>D'autres à venir d'ici octobre ! Connectez-vous !</li>
+	<li>D'autres à venir d'ici octobre ! <a href="https://discord.gg/PgJcKCpyqU">Connectez-vous</a> !</li>
 	</ul>
 	</p>
 	<p>Plusieurs types de jams à ce jour :

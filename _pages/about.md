@@ -147,16 +147,13 @@ permalink: /about
 	<h2 style="text-align:right"><span>05 - Manifestations exceptionnelles</span></h2>
     </div>
     <div class="article-post">
-	<img style="float:right;padding:30px;" src="{{ site.baseurl }}/assets/images/la-foisonante-concert1.jpg" width="400" height="250"/>
-	<br/>
-	<img style="float:right;padding:30px;" src="{{ site.baseurl }}/assets/images/dans-un-jardin-concert2.jpg" width="400" height="250"/>
-	<br/>
-	<img style="float:right;padding:30px;" src="{{ site.baseurl }}/assets/images/qgo-concert3.jpg" width="400" height="250"/>
+	<diV>
+	<img style="padding:15px;" src="{{ site.baseurl }}/assets/images/la-foisonante-concert1.jpg" width="240px" height="150px"/>
+	<img style="padding:15px;" src="{{ site.baseurl }}/assets/images/dans-un-jardin-concert2.jpg" width="240px" height="150px"/>
+	<img style="padding:15px;" src="{{ site.baseurl }}/assets/images/qgo-concert3.jpg" width="240px" height="150px"/>
+	</div>
 	<br/>
 	<p>L'association ZIKAPANAM organise chaque année une ou plusieurs soirées jams c’est à dire des manifestations exceptionnelles où les membres de Paris Jam Club et bientôt de MIP jouent sur scène devant un public.</p>
-	<p>Première événement dans un bar parisien (cf image).</p>
-	<p>Deuxième événement dans un jardin privatif (cf image).</p>
-	<p>Troisième événement dans un bar parisien (cf image)</p>
 	<p>D'autres sont à venir !</p>
     </div>
 </section>

@@ -40,7 +40,7 @@ permalink: /about
 	</p>
 	<p>PJC est une communauté créée en octobre 2021. Elle est organisée sur internet. Les musiciens y développent leurs compétences musicales grâce  à des rencontres autour de jams.</p>
 
-	<p>Plusieurs types de jams à ce jour :</p>
+	<p>Plusieurs types de jams à ce jour :
 	<ul>
 	<li>jams en studio de répétition ;</li>
 	<li>jams concert ;</li>
@@ -49,6 +49,19 @@ permalink: /about
 	<li>street jams (dehors par beau temps) ;</li>
 	<li>jams distancielles (par internet).</li>
 	</ul>
+ 	</p>
+ 	<p>PJC propose aussi de nombreux collectifs :
+	<ul>
+	<li>Collectif Vulfans (Reprises de Vulfpeck)</li>
+	<li>Collectif Funk R'N'B Soul</li>
+	<li>Collectif Repassez-moi le standard ! (Jazz)</li>
+	<li>Atelier concert Blues</li>
+	<li>Atelier concert Jazz</li>
+	<li>Atelier concert Multi (Soul, Funk, Pop, Rock, Groove)</li>
+	<li>Atelier compo comme support à l'impro</li>
+	<li>... D'autres à venir d'ici octobre ! Connectez-vous !</li>
+	</ul>
+	</p>
    </div>
 </section>
 <section class="about">
@@ -73,10 +86,9 @@ permalink: /about
 	<li>Collectif Les Grands Classiques (Maurice) : Chanson française et variété internationale [<a href='https://discord.com/channels/1038909359712895058/1062782176501972992/1062782176501972992'>Présentation</a>] ;</li>
 	<li>Collectif Jazz/Blues Paris Est (Yann) : Jazz / Blues et RnB [<a href='https://discord.com/channels/1038909359712895058/1050536243659804702/1050536243659804702'>Présentation</a>] ;</li>
 	<li>Collectif Panam AfroFuze (Paul) : Jazz, Blues, Soul, Funk, Afro Beat. [<a href='https://discord.com/channels/1038909359712895058/1092582664088850432/1092582664088850432'>Présentation</a>] ;</li>
-	<li>On est ouvert à la création de nouveaux collectifs, n'hésitez à venir en discuter avec moi (Laurent). Merci !</li>
+	<li>D'autres à venir d'ici octobre ! Connectez-vous !</li>
 	</ul>
 	</p>
-    <p>
 	<p>Plusieurs types de jams à ce jour :</p>
 	<ul>
 	<li>jams en studio de répétition ;</li>
@@ -85,7 +97,7 @@ permalink: /about
 	</p>
 	</div>
 </section>
-<section class="about">
+<!--<section class="about">
     <div class="section-title">
 	<h2 style="text-align:right"><span>04 - Atelier d'Impro Musicale de Paris</span></h2>
     </div>
@@ -104,20 +116,20 @@ permalink: /about
 	<p>Les membres de cette structure sont pleinement intégrés à la communauté Paris Jam Club.</p>
 	<p>Plusieurs sous projets à ce jour :
 	<ul>
-	    <li>groupe de travail Multi-styles ;</li>
-	    <li>groupe de travail Jazz ; </li>
-	    <li>groupe de travail Blues ;</li>
-	    <li>groupe de travail Vulfan ;</li>
-	    <li>groupe de travail sur la composition comme support à l'improvisation.</li>
+	    <li>Atelier concert Multi-styles (Soul, Funk, Pop, rock, Groove);</li>
+	    <li>Atelier concert Jazz ; </li>
+	    <li>Atelier concert Blues ;</li>
+	    <li>Atelier sur la composition comme support à l'improvisation.</li>
 	</ul>
 	</p>
 	<p>Plus d'informations sur Discord.
 	</p>
    </div>
 </section>
+-->
 <section class="about">
    <div class="section-title">
-	<h2 style="text-align:left"><span>05 - Communautés Discord</span></h2>
+	<h2 style="text-align:left"><span>04 - Communautés Discord</span></h2>
     </div>
     <div class="article-post">
 	<p><img style="float:left;padding-right:30px;" src="{{ site.baseurl }}/assets/images/discord.webp" height="250"/>
@@ -132,7 +144,7 @@ permalink: /about
 </section>
 <section class="about">
     <div class="section-title">
-	<h2 style="text-align:right"><span>06 - Manifestations exceptionnelles</span></h2>
+	<h2 style="text-align:right"><span>05 - Manifestations exceptionnelles</span></h2>
     </div>
     <div class="article-post">
 	<p>
@@ -144,7 +156,7 @@ permalink: /about
 </section>
 <section class="about">
     <div class="section-title">
-	<h2 style="text-align:right"><span>07 - Cotisation Zikapanam</span></h2>
+	<h2 style="text-align:right"><span>06 - Cotisation Zikapanam</span></h2>
     </div>
     <div class="article-post">
 	<p>

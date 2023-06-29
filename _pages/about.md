@@ -52,13 +52,13 @@ permalink: /about
  	</p>
  	<p>PJC propose aussi de nombreux collectifs :
 	<ul>
-	<li>Atelier concert Blues (AIMP)</li>
-	<li>Atelier concert Jazz (AIMP)</li>
-	<li>Atelier concert Multi (Soul, Funk, Pop, Rock, Groove) (AIMP)</li>
-	<li>Atelier compo comme support à l'impro (AIMP)</li>
-	<li>Collectif Vulfans (Reprises de Vulfpeck)</li>
-	<li>Collectif Funk R'N'B Soul</li>
-	<li>Collectif Repassez-moi le standard ! (Jazz)</li>
+	<li>Atelier concert Blues (AIMP - Laurent)</li>
+	<li>Atelier concert Jazz (AIMP - Laurent)</li>
+	<li>Atelier concert Multi (Soul, Funk, Pop, Rock, Groove) (AIMP - Laurent)</li>
+	<li>Atelier compo comme support à l'impro (AIMP - Laurent)</li>
+	<li>Collectif Vulfans (Reprises de Vulfpeck - Yoann) </li>
+	<li>Collectif Funk R'N'B Soul (Philippe)</li>
+	<li>Collectif Repassez-moi le standard ! (Jazz - Fred)</li>
 	<li>... D'autres à venir d'ici octobre ! <a href="http://discord.gg/xjPA48eNJz">Connectez-vous</a> !</li>
 	</ul>
 	</p>

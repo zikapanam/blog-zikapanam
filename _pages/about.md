@@ -22,7 +22,7 @@ permalink: /about
 	<b>Facebook</b> : <a href="https://www.facebook.com/zikapanam">https://www.facebook.com/zikapanam</a><br/>
 	</p>
 
-	<p>ZIKAPANAM (association loi 1901) fédère une communauté de musiciens et gère le Paris Jam Club, l'Atelier d'impro musicale de Paris et les Musiciens Interdébs de Paris. Nos rencontres se font sur  Paris et sa petite couronne mais des rencontres “en ligne” permettent de toucher des musiciens plus éloignés géographiquement.</p>
+	<p>ZIKAPANAM (association loi 1901) fédère une communauté de musiciens et gère le Paris Jam Club (PJC), l'Atelier d'impro musicale de Paris (AIMP) et les Musiciens Interdébs de Paris (MIP). Nos rencontres se font sur  Paris et sa petite couronne mais des rencontres “en ligne” permettent de toucher des musiciens plus éloignés géographiquement.</p>
     </div>
 </section>
 <section class="about">
@@ -130,10 +130,10 @@ permalink: /about
 -->
 <section class="about">
    <div class="section-title">
-	<h2 style="text-align:left"><span>04 - Communautés Discord</span></h2>
+	<h2 style="text-align:right"><span>04 - Communautés Discord</span></h2>
     </div>
     <div class="article-post">
-	<p><img style="float:left;padding-right:30px;" src="{{ site.baseurl }}/assets/images/discord.webp" height="250"/>
+	<p><img style="float:right;padding-right:30px;" src="{{ site.baseurl }}/assets/images/discord.webp" height="250"/>
 	</p>
 	<p>
 	Discord est une messagerie communautaire qui permet aux membres de l'association ZIKAPANAM d'organiser leurs événements (principalement des jams musicales, des répétitions à ce jour mais aussi des rencontres informelles pour discuter). 
@@ -145,7 +145,7 @@ permalink: /about
 </section>
 <section class="about">
     <div class="section-title">
-	<h2 style="text-align:right"><span>05 - Manifestations exceptionnelles</span></h2>
+	<h2 style="text-align:left"><span>05 - Manifestations exceptionnelles</span></h2>
     </div>
     <div class="article-post">
 	<diV>

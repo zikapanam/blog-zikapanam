@@ -1,4 +1,4 @@
-#BLOG ZIKAPANAM
+# BLOG ZIKAPANAM
 
 Ce repo contient le blog/site de l'association Zikapanam. Il utilise le thème Mediumish et le système de blog Jekyll.
 

@@ -57,6 +57,7 @@ permalink: /about
 	<li>Atelier concert Jazz (AIMP - Laurent) <a href="https://discord.com/channels/893372971073277962/1119721934490451988">[Présentation]</a> ;</li>
 	<li>Atelier concert Multi (Soul, Funk, Pop, Rock, Groove) (AIMP - Laurent) <a href="https://discord.com/channels/893372971073277962/1119721934490451988">[Présentation]</a> ;</li>
 	<li>Atelier compo comme support à l'impro (AIMP - Laurent) <a href="https://discord.com/channels/893372971073277962/1121704059561332837">[Présentation]</a> ;</li>
+	<li>Atelier Impro-Métal (AIMP - Laurent) <a href="https://discord.com/channels/893372971073277962/1127711925548109854">[Présentation]</a> ;</li>
 	<li>Collectif Vulfans (Reprises de Vulfpeck - Yoann) <a href="https://discord.com/channels/893372971073277962/1119742878604873759">[Présentation]</a> ;</li>
 	<li>Collectif Funk R'N'B Soul (Philippe) <a href="https://discord.com/channels/893372971073277962/1121025765161582632">[Présentation]</a> ;</li>
 	<li>Collectif Repassez-moi le standard ! (Jazz - Fred) <a href="https://discord.com/channels/893372971073277962/1122424995939889164">[Présentation]</a> ;</li>

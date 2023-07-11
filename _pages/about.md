@@ -60,6 +60,7 @@ permalink: /about
 	<li>Atelier Impro-Métal (AIMP - Laurent) <a href="https://discord.com/channels/893372971073277962/1127711925548109854">[Présentation]</a> ;</li>
 	<li>Collectif Vulfans (Reprises de Vulfpeck - Yoann) <a href="https://discord.com/channels/893372971073277962/1119742878604873759">[Présentation]</a> ;</li>
 	<li>Collectif Funk R'N'B Soul (Philippe) <a href="https://discord.com/channels/893372971073277962/1121025765161582632">[Présentation]</a> ;</li>
+	<li>Collectif Jazz-Funk ツ (Clément) <a href="https://discord.com/channels/893372971073277962/1128235531113869342/1128235531113869342">[Présentation]</a> ;</li>
 	<li>Collectif Repassez-moi le standard ! (Jazz - Fred) <a href="https://discord.com/channels/893372971073277962/1122424995939889164">[Présentation]</a> ;</li>
 	<li>... D'autres à venir d'ici octobre ! <a href="http://discord.gg/xjPA48eNJz">Connectez-vous</a> !</li>	
 	</ul>

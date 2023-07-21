@@ -90,6 +90,7 @@ permalink: /about
 	<li>Collectif Les Grands Classiques (Maurice) : Chanson française et variété internationale <a href='https://discord.com/channels/1038909359712895058/1062782176501972992/1062782176501972992'>[Présentation]</a> ;</li>
 	<li>Collectif Jazz/Blues Paris Est (Yann) : Jazz / Blues et RnB <a href='https://discord.com/channels/1038909359712895058/1050536243659804702/1050536243659804702'>[Présentation]</a> ;</li>
 	<li>Collectif Panam AfroFuze (Paul) : Jazz, Blues, Soul, Funk, Afro Beat. <a href='https://discord.com/channels/1038909359712895058/1092582664088850432/1092582664088850432'>[Présentation]</a> ;</li>
+	<li>Collectif Into The Groove (Pierre-Henri) : Soul, RnB, Funk. <a href='https://discord.com/channels/1038909359712895058/1131556262530793482/1131556262530793482'>[Présentation]</a> ;</li>
 	<li>D'autres à venir d'ici octobre ! <a href="https://discord.gg/PgJcKCpyqU">Connectez-vous</a> !</li>
 	</ul>
 	</p>

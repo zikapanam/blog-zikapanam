@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_810ce0cd988817763ed591361da1fd4d {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_810ce0cd988817763ed591361da1fd4d" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_810ce0cd988817763ed591361da1fd4d = L.map(
+                "map_810ce0cd988817763ed591361da1fd4d",
+                {
+                    center: [48.86290142452203, 2.3356982550892047],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 12,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_34914b44eb39046093de634f2c5f96ec = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_810ce0cd988817763ed591361da1fd4d);
+        
+    
+            var marker_1fc5294c9ce451b7c0e58c3839525d1e = L.marker(
+                [48.86583842714019, 2.3771085355821984],
+                {}
+            ).addTo(map_810ce0cd988817763ed591361da1fd4d);
+        
+    
+            var icon_9300665d9da16debb785619cc60df7b0 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "ok-sign", "iconColor": "white", "markerColor": "purple", "prefix": "glyphicon"}
+            );
+            marker_1fc5294c9ce451b7c0e58c3839525d1e.setIcon(icon_9300665d9da16debb785619cc60df7b0);
+        
+    
+        var popup_7ca8cd5ae090b1f08dd6b408170c3003 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a8bc9b6b04f76ec34209812bf901c8e5 = $(`<div id="html_a8bc9b6b04f76ec34209812bf901c8e5" style="width: 100.0%; height: 100.0%;"><div style='font-size: large'><b>QG Oberkampf</b> <i>Café concert</i> 75011 <a href='https://goo.gl/maps/FhYJYcpY2xgySzam7' target='_blank'>Google Maps URL</a></div></div>`)[0];
+                popup_7ca8cd5ae090b1f08dd6b408170c3003.setContent(html_a8bc9b6b04f76ec34209812bf901c8e5);
+            
+        
+
+        marker_1fc5294c9ce451b7c0e58c3839525d1e.bindPopup(popup_7ca8cd5ae090b1f08dd6b408170c3003)
+        ;
+
+        
+    
+    
+            var marker_24767c0ffde7dc26f06c488941ce2214 = L.marker(
+                [48.886236, 2.382227],
+                {}
+            ).addTo(map_810ce0cd988817763ed591361da1fd4d);
+        
+    
+            var icon_33271d28bffe481bbfdbf7eeab803f21 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "ok-sign", "iconColor": "white", "markerColor": "purple", "prefix": "glyphicon"}
+            );
+            marker_24767c0ffde7dc26f06c488941ce2214.setIcon(icon_33271d28bffe481bbfdbf7eeab803f21);
+        
+    
+        var popup_4b66e4d1ed0d95d4b8deeefc4566ee69 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_218cbb714f3d40f97a64f63fee6c8e87 = $(`<div id="html_218cbb714f3d40f97a64f63fee6c8e87" style="width: 100.0%; height: 100.0%;"><div style='font-size: large'><b>La Foisonante</b> <i>Café concert</i> 75019 <a href='https://goo.gl/maps/mLNvJ51bax2UshZu6' target='_blank'>Google Maps URL</a></div></div>`)[0];
+                popup_4b66e4d1ed0d95d4b8deeefc4566ee69.setContent(html_218cbb714f3d40f97a64f63fee6c8e87);
+            
+        
+
+        marker_24767c0ffde7dc26f06c488941ce2214.bindPopup(popup_4b66e4d1ed0d95d4b8deeefc4566ee69)
+        ;
+
+        
+    
+    
+            var marker_521394c5d88ae12f8ec871372dc3c91f = L.marker(
+                [48.85585364126433, 2.432595926986388],
+                {}
+            ).addTo(map_810ce0cd988817763ed591361da1fd4d);
+        
+    
+            var icon_c211a7fed9cfbdbd52a7107c10c40f8e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "ok-sign", "iconColor": "white", "markerColor": "purple", "prefix": "glyphicon"}
+            );
+            marker_521394c5d88ae12f8ec871372dc3c91f.setIcon(icon_c211a7fed9cfbdbd52a7107c10c40f8e);
+        
+    
+        var popup_2bd2096a806c7a9680fae687311d7102 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_332f1ead746f30c10d0d6a9cfa805a09 = $(`<div id="html_332f1ead746f30c10d0d6a9cfa805a09" style="width: 100.0%; height: 100.0%;"><div style='font-size: large'><b>L'Armony Montreuil</b> <i>Café concert</i> 93100 <a href='https://goo.gl/maps/dhaJVgnbaxonnqov7' target='_blank'>Google Maps URL</a></div></div>`)[0];
+                popup_2bd2096a806c7a9680fae687311d7102.setContent(html_332f1ead746f30c10d0d6a9cfa805a09);
+            
+        
+
+        marker_521394c5d88ae12f8ec871372dc3c91f.bindPopup(popup_2bd2096a806c7a9680fae687311d7102)
+        ;
+
+        
+    
+    
+            var tile_layer_830f938393940873bf32cb1dca0f2991 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_810ce0cd988817763ed591361da1fd4d);
+        
+    
+            var marker_61908108b1c32430c1b94c31854d6e15 = L.marker(
+                [48.83089459102877, 2.378753664417801],
+                {}
+            ).addTo(map_810ce0cd988817763ed591361da1fd4d);
+        
+    
+            var icon_40e26ca742df5df3d3a887f0ca557afa = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "ok-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_61908108b1c32430c1b94c31854d6e15.setIcon(icon_40e26ca742df5df3d3a887f0ca557afa);
+        
+    
+        var popup_74f6a8ac68ec90dcccc1e38e7642c6c3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ed6a9875ebde83b446d9b5c2ed98a55c = $(`<div id="html_ed6a9875ebde83b446d9b5c2ed98a55c" style="width: 100.0%; height: 100.0%;"><div style='font-size: large'><b>Studio Luna Rossa</b> <i>Studio de répétition</i> 75013 <a href='https://goo.gl/maps/az59anDD3cVYi88z8' target='_blank'>Google Maps URL</a></div></div>`)[0];
+                popup_74f6a8ac68ec90dcccc1e38e7642c6c3.setContent(html_ed6a9875ebde83b446d9b5c2ed98a55c);
+            
+        
+
+        marker_61908108b1c32430c1b94c31854d6e15.bindPopup(popup_74f6a8ac68ec90dcccc1e38e7642c6c3)
+        ;
+
+        
+    
+    
+            var marker_376cc1a309beda1609ab8fdd9260963c = L.marker(
+                [48.81998636835969, 2.338572028835795],
+                {}
+            ).addTo(map_810ce0cd988817763ed591361da1fd4d);
+        
+    
+            var icon_8fc121e61966de3207329e46ee294d8a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "ok-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_376cc1a309beda1609ab8fdd9260963c.setIcon(icon_8fc121e61966de3207329e46ee294d8a);
+        
+    
+        var popup_d8673a1d21038d60d2228ca8f7893669 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3546d73c983f69d56547335c3f0823de = $(`<div id="html_3546d73c983f69d56547335c3f0823de" style="width: 100.0%; height: 100.0%;"><div style='font-size: large'><b>Studio Cité Internationale Universitaire de Paris</b> <i>Studio de répétition</i> 75014 <a href='https://goo.gl/maps/GGGPWdZjd6kPJiAt9?coh=178572&entry=tt' target='_blank'>Google Maps URL</a></div></div>`)[0];
+                popup_d8673a1d21038d60d2228ca8f7893669.setContent(html_3546d73c983f69d56547335c3f0823de);
+            
+        
+
+        marker_376cc1a309beda1609ab8fdd9260963c.bindPopup(popup_d8673a1d21038d60d2228ca8f7893669)
+        ;
+
+        
+    
+    
+            var marker_0e67fc960e845d7dc1f6f98dea91b6c5 = L.marker(
+                [48.897350451072235, 2.3846372153431803],
+                {}
+            ).addTo(map_810ce0cd988817763ed591361da1fd4d);
+        
+    
+            var icon_0a69b3bf58d7c69b90e54b477289d0b0 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "ok-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_0e67fc960e845d7dc1f6f98dea91b6c5.setIcon(icon_0a69b3bf58d7c69b90e54b477289d0b0);
+        
+    
+        var popup_c438ef076a1cbabe891f58c63a45888c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a3eaa538f2d283b7aadb7953fd2a31a1 = $(`<div id="html_a3eaa538f2d283b7aadb7953fd2a31a1" style="width: 100.0%; height: 100.0%;"><div style='font-size: large'><b>Studio HBS Géode (19ème)</b> <i>Studio de répétition</i> 75019 <a href='https://goo.gl/maps/PMdCo7HKHq2J8nTj6?coh=178572&entry=tt' target='_blank'>Google Maps URL</a></div></div>`)[0];
+                popup_c438ef076a1cbabe891f58c63a45888c.setContent(html_a3eaa538f2d283b7aadb7953fd2a31a1);
+            
+        
+
+        marker_0e67fc960e845d7dc1f6f98dea91b6c5.bindPopup(popup_c438ef076a1cbabe891f58c63a45888c)
+        ;
+
+        
+    
+    
+            var marker_dc19d18beba40b3adf3efa118f5ece56 = L.marker(
+                [48.81381396087733, 2.4712191797606593],
+                {}
+            ).addTo(map_810ce0cd988817763ed591361da1fd4d);
+        
+    
+            var icon_7eab536a9a26d76dd35127dd5c232921 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "ok-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_dc19d18beba40b3adf3efa118f5ece56.setIcon(icon_7eab536a9a26d76dd35127dd5c232921);
+        
+    
+        var popup_917561c9ec1696f15bfd3043fc98517d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_428a937f5986141cdb0faf153f04cb77 = $(`<div id="html_428a937f5986141cdb0faf153f04cb77" style="width: 100.0%; height: 100.0%;"><div style='font-size: large'><b>Studio Pulsar</b> <i>Studio de répétition</i> 94340 <a href='https://goo.gl/maps/GPdCe3CcLi7DSJsS6' target='_blank'>Google Maps URL</a></div></div>`)[0];
+                popup_917561c9ec1696f15bfd3043fc98517d.setContent(html_428a937f5986141cdb0faf153f04cb77);
+            
+        
+
+        marker_dc19d18beba40b3adf3efa118f5ece56.bindPopup(popup_917561c9ec1696f15bfd3043fc98517d)
+        ;
+
+        
+    
+    
+            var marker_9dd8cce9f65c135b08a9f2e750b22175 = L.marker(
+                [48.87382128419277, 2.3512432711642046],
+                {}
+            ).addTo(map_810ce0cd988817763ed591361da1fd4d);
+        
+    
+            var icon_4e5501a1d619812f6a6f207e3beb796c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "ok-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_9dd8cce9f65c135b08a9f2e750b22175.setIcon(icon_4e5501a1d619812f6a6f207e3beb796c);
+        
+    
+        var popup_3f90b3768730989e69e862a9fbc9e03e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d826d9f9e1fa9c94e1b13ea9ea1cbc03 = $(`<div id="html_d826d9f9e1fa9c94e1b13ea9ea1cbc03" style="width: 100.0%; height: 100.0%;"><div style='font-size: large'><b>Studio HBS Écuries (10ème)</b> <i>Studio de répétition</i> 75010 <a href='https://goo.gl/maps/JAFr8cPKM8mj8jze6?coh=178572&entry=tt' target='_blank'>Google Maps URL</a></div></div>`)[0];
+                popup_3f90b3768730989e69e862a9fbc9e03e.setContent(html_d826d9f9e1fa9c94e1b13ea9ea1cbc03);
+            
+        
+
+        marker_9dd8cce9f65c135b08a9f2e750b22175.bindPopup(popup_3f90b3768730989e69e862a9fbc9e03e)
+        ;
+
+        
+    
+    
+            var marker_1f5fe896b37901819dbe6ad48e24b2b1 = L.marker(
+                [48.867723501995435, 2.404454407940915],
+                {}
+            ).addTo(map_810ce0cd988817763ed591361da1fd4d);
+        
+    
+            var icon_dad5d4e1bba5f9b1d05959e006f867c4 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "ok-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_1f5fe896b37901819dbe6ad48e24b2b1.setIcon(icon_dad5d4e1bba5f9b1d05959e006f867c4);
+        
+    
+        var popup_1dd4bf62fb64d91dda15a9345f7f92e5 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_90fd5c04f923f820fc913f602e0eef9c = $(`<div id="html_90fd5c04f923f820fc913f602e0eef9c" style="width: 100.0%; height: 100.0%;"><div style='font-size: large'><b>Studio Bleu 20ème</b> <i>Studio de répétition</i> 75020 <a href='https://goo.gl/maps/WHQNBWyNhuzuCH9G6' target='_blank'>Google Maps URL</a></div></div>`)[0];
+                popup_1dd4bf62fb64d91dda15a9345f7f92e5.setContent(html_90fd5c04f923f820fc913f602e0eef9c);
+            
+        
+
+        marker_1f5fe896b37901819dbe6ad48e24b2b1.bindPopup(popup_1dd4bf62fb64d91dda15a9345f7f92e5)
+        ;
+
+        
+    
+    
+            var marker_06b0490e1da760c88e2613658016332e = L.marker(
+                [48.87429992577817, 2.3460767134926135],
+                {}
+            ).addTo(map_810ce0cd988817763ed591361da1fd4d);
+        
+    
+            var icon_8e95dab82f8b03e681a523629c2cc38d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "ok-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_06b0490e1da760c88e2613658016332e.setIcon(icon_8e95dab82f8b03e681a523629c2cc38d);
+        
+    
+        var popup_cfa55e18adfef4c071634ce7546234a7 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_fa73ff0995da8962a5127619fdf1b20c = $(`<div id="html_fa73ff0995da8962a5127619fdf1b20c" style="width: 100.0%; height: 100.0%;"><div style='font-size: large'><b>Studio HF 9ème</b> <i>Studio de répétition</i> 75009 <a href='https://goo.gl/maps/uYuq8duwjxSXfh3h7' target='_blank'>Google Maps URL</a></div></div>`)[0];
+                popup_cfa55e18adfef4c071634ce7546234a7.setContent(html_fa73ff0995da8962a5127619fdf1b20c);
+            
+        
+
+        marker_06b0490e1da760c88e2613658016332e.bindPopup(popup_cfa55e18adfef4c071634ce7546234a7)
+        ;
+
+        
+    
+    
+            var marker_cfdab137c44cc55157889737aef67bed = L.marker(
+                [48.88669285948222, 2.4003435288357946],
+                {}
+            ).addTo(map_810ce0cd988817763ed591361da1fd4d);
+        
+    
+            var icon_a0b1d7c99b07004985f656b641ba256f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "ok-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_cfdab137c44cc55157889737aef67bed.setIcon(icon_a0b1d7c99b07004985f656b641ba256f);
+        
+    
+        var popup_42a72c44a4e66ddf3f69455e5770d864 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b2bb5ae35d146a556207aceb5f91eab9 = $(`<div id="html_b2bb5ae35d146a556207aceb5f91eab9" style="width: 100.0%; height: 100.0%;"><div style='font-size: large'><b>BOPCITY</b> <i>Studio de répétition</i> 93310 <a href='https://goo.gl/maps/vEcDsKvn82ezicxB7' target='_blank'>Google Maps URL</a></div></div>`)[0];
+                popup_42a72c44a4e66ddf3f69455e5770d864.setContent(html_b2bb5ae35d146a556207aceb5f91eab9);
+            
+        
+
+        marker_cfdab137c44cc55157889737aef67bed.bindPopup(popup_42a72c44a4e66ddf3f69455e5770d864)
+        ;
+
+        
+    
+    
+            var marker_f596643e1df58faaf9c8891d08a54e80 = L.marker(
+                [48.83185877488834, 2.3389437932534025],
+                {}
+            ).addTo(map_810ce0cd988817763ed591361da1fd4d);
+        
+    
+            var icon_5b83cda84933df7d24b9a7afa40f92bf = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "ok-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_f596643e1df58faaf9c8891d08a54e80.setIcon(icon_5b83cda84933df7d24b9a7afa40f92bf);
+        
+    
+        var popup_9e32de3fe01450945594ede7bceca7eb = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1b1f3863b6a1bc5da571c6f183d9a4b8 = $(`<div id="html_1b1f3863b6a1bc5da571c6f183d9a4b8" style="width: 100.0%; height: 100.0%;"><div style='font-size: large'><b>Studio HF 14ème</b> <i>Studio de répétition</i> 75014 <a href='https://goo.gl/maps/3DWxVr6H9K4CwEaX9' target='_blank'>Google Maps URL</a></div></div>`)[0];
+                popup_9e32de3fe01450945594ede7bceca7eb.setContent(html_1b1f3863b6a1bc5da571c6f183d9a4b8);
+            
+        
+
+        marker_f596643e1df58faaf9c8891d08a54e80.bindPopup(popup_9e32de3fe01450945594ede7bceca7eb)
+        ;
+
+        
+    
+    
+            var marker_09db63c7fde7965f571dc66052c210b8 = L.marker(
+                [48.85799891138765, 2.372357677910995],
+                {}
+            ).addTo(map_810ce0cd988817763ed591361da1fd4d);
+        
+    
+            var icon_8c241323310981897ed66a61d30c1afd = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "ok-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_09db63c7fde7965f571dc66052c210b8.setIcon(icon_8c241323310981897ed66a61d30c1afd);
+        
+    
+        var popup_cf522abae0801e3a3754f5d648ce3aac = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6227d97a0d053d98327cd1c5a4d015b5 = $(`<div id="html_6227d97a0d053d98327cd1c5a4d015b5" style="width: 100.0%; height: 100.0%;"><div style='font-size: large'><b>Studio Campus</b> <i>Studio de répétition</i> 75011 <a href='https://goo.gl/maps/nEQQ53QDHM11uj467' target='_blank'>Google Maps URL</a></div></div>`)[0];
+                popup_cf522abae0801e3a3754f5d648ce3aac.setContent(html_6227d97a0d053d98327cd1c5a4d015b5);
+            
+        
+
+        marker_09db63c7fde7965f571dc66052c210b8.bindPopup(popup_cf522abae0801e3a3754f5d648ce3aac)
+        ;
+
+        
+    
+    
+            var marker_022a6251aa26eda176b4c8114401c28e = L.marker(
+                [48.89759757732897, 2.4079245914041887],
+                {}
+            ).addTo(map_810ce0cd988817763ed591361da1fd4d);
+        
+    
+            var icon_dfa1f41522c24e51dccc4e9d3565f5bd = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "ok-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_022a6251aa26eda176b4c8114401c28e.setIcon(icon_dfa1f41522c24e51dccc4e9d3565f5bd);
+        
+    
+        var popup_300a4b7270730b1a60401200f16583c8 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a936a5145be779da3aeb41c1c8206923 = $(`<div id="html_a936a5145be779da3aeb41c1c8206923" style="width: 100.0%; height: 100.0%;"><div style='font-size: large'><b>DGD Music Studio</b> <i>Studio de répétition</i> 93500 <a href='https://goo.gl/maps/2U7zzqLwrXkXvK557' target='_blank'>Google Maps URL</a></div></div>`)[0];
+                popup_300a4b7270730b1a60401200f16583c8.setContent(html_a936a5145be779da3aeb41c1c8206923);
+            
+        
+
+        marker_022a6251aa26eda176b4c8114401c28e.bindPopup(popup_300a4b7270730b1a60401200f16583c8)
+        ;
+
+        
+    
+    
+            var marker_1364098dffa71259782cb84637e13427 = L.marker(
+                [48.873174660020716, 2.353390893253403],
+                {}
+            ).addTo(map_810ce0cd988817763ed591361da1fd4d);
+        
+    
+            var icon_4f9ac1fb18e37dd009324a906ddaf5a8 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "ok-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_1364098dffa71259782cb84637e13427.setIcon(icon_4f9ac1fb18e37dd009324a906ddaf5a8);
+        
+    
+        var popup_a4a9731e14976264dd4cc975184c5087 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1e8df84abff9a20f87acd392ccf4f2ef = $(`<div id="html_1e8df84abff9a20f87acd392ccf4f2ef" style="width: 100.0%; height: 100.0%;"><div style='font-size: large'><b>Studio Bleu 10ème</b> <i>Studio de répétition</i> 75010 <a href='https://goo.gl/maps/Syr6wv2vf6CZSDUz5' target='_blank'>Google Maps URL</a></div></div>`)[0];
+                popup_a4a9731e14976264dd4cc975184c5087.setContent(html_1e8df84abff9a20f87acd392ccf4f2ef);
+            
+        
+
+        marker_1364098dffa71259782cb84637e13427.bindPopup(popup_a4a9731e14976264dd4cc975184c5087)
+        ;
+
+        
+    
+    
+            var marker_9376104cfe75f183071c8738c732d455 = L.marker(
+                [48.8115380165332, 2.387865352773822],
+                {}
+            ).addTo(map_810ce0cd988817763ed591361da1fd4d);
+        
+    
+            var icon_c9d1e924be2241cd368b987e0a43093e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "ok-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_9376104cfe75f183071c8738c732d455.setIcon(icon_c9d1e924be2241cd368b987e0a43093e);
+        
+    
+        var popup_1da106276163943f2445d1b7729537f7 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_0cd94feb9d7ed7e619903899c9b2f9f8 = $(`<div id="html_0cd94feb9d7ed7e619903899c9b2f9f8" style="width: 100.0%; height: 100.0%;"><div style='font-size: large'><b>Le Hangar / Tremplin</b> <i>Studio de répétition</i> 94200 <a href='https://goo.gl/maps/YHuSvRjMnWKsT39d9' target='_blank'>Google Maps URL</a></div></div>`)[0];
+                popup_1da106276163943f2445d1b7729537f7.setContent(html_0cd94feb9d7ed7e619903899c9b2f9f8);
+            
+        
+
+        marker_9376104cfe75f183071c8738c732d455.bindPopup(popup_1da106276163943f2445d1b7729537f7)
+        ;
+
+        
+    
+</script>
+</html>

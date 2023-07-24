@@ -10,8 +10,8 @@ Ici vous trouverez les liens vers les pages linktree contenant les démos et les
 <ul>
 <li><strong>ZIKAPANAM (ZAP)</strong>, association loi 1901 gérant les projets ci-dessous : <a href="https://linktr.ee/zikapanam">Linktree ZAP</a></li>
 <li><strong>Musiciens Intermédiaires et débutants de Paris (MIP)</strong>, communauté Discord (Adultes uniq.) : <a href="https://linktr.ee/Musiciens.Interdebs.Parisiens">Linktree MIP</a></li>
-<li><strong>Paris Jam Club (PJC)</strong>, communauté Discord (Adultes uniq. + 5 ans de pratique régulière) : <a href="https://linktr.ee/JamsMusicales">Linktree PJC</a></li>
-<li><strong>Atelier d'Impro Musicale de Paris (AIMP)</strong>, structure intégré au Discord PJC (Adultes uniq. + 5 ans de pratique régulière) : <a href="https://linktr.ee/AtelierImproMusicaleParis">Linktree AIMP</a></li>
+<li><strong>Paris Jam Club (PJC)</strong>, communauté Discord (Adultes uniq. intermédiaires-avancés ou avancés) : <a href="https://linktr.ee/JamsMusicales">Linktree PJC</a></li>
+<li><strong>Atelier d'Impro Musicale de Paris (AIMP)</strong>, structure intégré au Discord PJC (Adultes uniq. intermédiaires-avancés ou avancés) : <a href="https://linktr.ee/AtelierImproMusicaleParis">Linktree AIMP</a></li>
 </ul>
 </p>
 </div>
@@ -23,8 +23,8 @@ Here you will find the links to the linktree pages containing the demos and the 
 <ul>
 <li><strong>ZIKAPANAM (ZAP)</strong>, association law 1901 managing the projects below: <a href="https://linktr.ee/zikapanam">Linktree ZAP</a></li>
 <li><strong>Intermediate and Beginner Musicians of Paris (MIP)</strong>, Discord community (Adults only): <a href="https://linktr.ee/Musiciens.Interdebs.Parisiens">Linktree MIP </a></li>
-<li><strong>Paris Jam Club (PJC)</strong>, Discord community (Adults only + 5 years of regular practice): <a href="https://linktr.ee/JamsMusicales">Linktree PJC</a></li>
-<li><strong>Atelier d'Impro Musicale de Paris (AIMP)</strong>, structure integrated into the Discord PJC (Adults only + 5 years of regular practice): <a href="https://linktr.ee/AtelierImproMusicaleParis">Linktree AIMP</a></li>
+<li><strong>Paris Jam Club (PJC)</strong>, Discord community (Adults only Intermediate-advanced or advanced): <a href="https://linktr.ee/JamsMusicales">Linktree PJC</a></li>
+<li><strong>Atelier d'Impro Musicale de Paris (AIMP)</strong>, structure integrated into the Discord PJC (Adults only Intermediate-advanced or advanced): <a href="https://linktr.ee/AtelierImproMusicaleParis">Linktree AIMP</a></li>
 </ul>
 </div>
 

@@ -19,7 +19,7 @@ permalink: /about
          <p>Plus de détails dans l'audio ci-dessous :</p>
          <p><iframe src="https://play.ht/embed/?article_url=https://play.ht/drafts/3Am7zozXgmTzx9tJoxoUesGcKrq2/qDIuPmEX5&voice=fr-FR-Wavenet-B" scrolling="no" height="90px" width="100%" frameborder="0" allowfullscreen></iframe></p>
         </div>
-	<p><img style="float:left;padding-right:30px;" src="{{ site.baseurl }}/assets/images/illustration-zikapanam-logo.png" height="300"/></p>
+	<p style="background-color: whitesmoke;"><img style="float:left;padding-right:30px;" src="{{ site.baseurl }}/assets/images/illustration-zikapanam-logo.png" height="300"/></p>
 	<p>
 	<b>Email</b> : <a href="contact@zikapanam.fr">contact@zikapanam.fr</a><br/>
 	<b>Linktree</b> : <a href="https://www.linktr.ee/zikapanam">https://www.linktr.ee/zikapanam</a><br/>
@@ -35,6 +35,7 @@ permalink: /about
     </div>
     <div class="article-post">
 	<p><img style="float:right;padding-left:30px;" src="{{ site.baseurl }}/assets/images/illustration-pjc-logo.png" height="250"/></p>
+	<div style="background-color: rgba(12, 90, 75, 0.1); padding: 15px;">
  	<p>
 	<b>Email</b> : <a href="contact-pjc@zikapanam.fr">contact-pjc@zikapanam.fr</a><br/>
 	<b>Linktree</b> : <a href="https://linktr.ee/JamsMusicales">https://linktr.ee/JamsMusicales</a><br/>
@@ -43,6 +44,7 @@ permalink: /about
 	<b>Niveau</b> : intermédiaire-avancé ou avancé (<a href="https://www.blog.zikapanam.fr/zap-comment-%C3%A9valuer-son-niveau/">Évaluer son niveau ?</a>)<br/>
 	<b>YouTube </b> : <a href="https://www.youtube.com/@parisjamclub/playlists">Paris Jam Club (Playlists de vidéos)</a><br/>
 	</p>
+	</div>
 	<p>PJC est une communauté créée en octobre 2021. Elle est organisée sur internet. Les musiciens y développent leurs compétences musicales grâce  à des rencontres autour de jams.</p>
 
 	<p>Plusieurs types de jams à ce jour :
@@ -80,6 +82,7 @@ permalink: /about
 
 	<p><img style="float:left;padding-right:30px;" src="{{ site.baseurl }}/assets/images/illustration-mip-logo.png" height="250"/></p>
 
+	<div style="background-color: rgba(12, 90, 75, 0.1);padding: 15px;">
 	<p>
 	<b>Email</b> : <a href="contact-mip@zikapanam.fr">contact-mip@zikapanam.fr</a><br/>
 	<b>Linktree</b> : <a href="https://linktr.ee/Musiciens.Interdebs.Parisiens">https://linktr.ee/Musiciens.Interdebs.Parisiens</a><br/>
@@ -87,6 +90,7 @@ permalink: /about
 	<b>Facebook</b> : <a href="https://www.facebook.com/musiciens.interdebs.parisiens">https://www.facebook.com/musiciens.interdebs.parisiens</a><br/>
 	<b>Niveau</b> : intermédiaire ou débutant (<a href="https://www.blog.zikapanam.fr/zap-comment-%C3%A9valuer-son-niveau/">Évaluer son niveau ?</a>)<br/>
 	</p>
+	</div>
 	<p>La communauté MIP, créée en novembre 2022,  permet d'organiser et participer à des sessions sur des reprises dans le cadre de collectifs de musiciens où il fait bon vivre. Les musiciens intermédiaires et débutants y joue dans une ambiance à la cool, pour le fun mais appliquée et impliquée.</p>
 	<p>Les collectifs suivants ont été créés ou sont en cours de constitution :
 	<ul>
@@ -171,6 +175,8 @@ permalink: /about
 	<h2 style="text-align:right"><span>06 - Cotisation Zikapanam</span></h2>
     </div>
     <div class="article-post">
+
+	<div style="background-color: rgba(12, 90, 75, 0.1);padding: 15px;">
 	<p>
 	<img style="float:right;padding-left:30px;" src="{{ site.baseurl }}/assets/images/registration-phil-desforges-L0K-87Ybwio-unsplash.jpg" height="250"/>
 	</p>
@@ -189,5 +195,6 @@ permalink: /about
 
 	<p>Actuellement, la cotisation est de 25 € ou 50 € (au choix) pour l'année civile. La cotisation des personnes qui s'inscrivent à partir de septembre sera valable pour la fin de l'année et l'année civile n+1.
 	</p>
+	</div>
     </div>
 </section>

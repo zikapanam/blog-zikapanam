@@ -15,9 +15,9 @@ permalink: /about
           <p><iframe width="560" height="315" src="https://www.youtube.com/embed/T9djMv31qE0" title="YouTube video player" frameborder="0" allow="acc
           elerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
         </div>
-	<div>
-         <p>Plus de détails dans l'audio ci-dessous :</p>
-         <p><iframe src="https://play.ht/embed/?article_url=https://play.ht/drafts/3Am7zozXgmTzx9tJoxoUesGcKrq2/qDIuPmEX5&voice=fr-FR-Wavenet-B" scrolling="no" height="90px" width="100%" frameborder="0" allowfullscreen></iframe></p>
+	<div style="text-align:center">
+         <p>26/07/2023 : Plus d'informations dans le powerpoint ci-dessous :</p>
+         <p><<iframe width="560" height="315" src="https://www.youtube.com/embed/B17kMVDJILc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
         </div>
 	<p style="background-color: whitesmoke;"><img style="float:left;padding-right:30px;" src="{{ site.baseurl }}/assets/images/illustration-zikapanam-logo.png" height="300"/></p>
 	<p>

@@ -105,8 +105,8 @@ permalink: /about
 	<p>Plusieurs types de jams à ce jour :
 	<ul>
 	<li>jams en studio de répétition ;</li>
-	<li>sorties jams (pour aller en groupe à une scène ouverte ou une jam session qui a pignon sur rue)</li>
-	<li>Street jams (dehors par beau temps dans des endroits où cette activité est tolérée)</li>
+	<li>sorties jams (pour aller en groupe à une scène ouverte ou une jam session qui a pignon sur rue) ;</li>
+	<li>street jams (dehors par beau temps dans des endroits où cette activité est tolérée).</li>
 	</ul>
 	</p>
 	</div>

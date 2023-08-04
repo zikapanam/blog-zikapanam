@@ -32,15 +32,15 @@
         position: relative;
         background-color: #4CAF50;
         color: whitesmoke;
-        font-size: larger;
         text-align: center;
+        font-size: larger;
         padding: 10px;
     }
 
     .bandeau {
         display: inline-block;
         white-space: nowrap;
-        animation: defile 40s linear infinite;
+        animation: defile 15s linear infinite;
     }
 
     /* Animation de défilement horizontal */
@@ -50,10 +50,23 @@
     }
 
     /* Style du lien */
-    .bandeau a {
-        color: white;
+    #bandeau a {
+        color: #fff;
         text-decoration: none;
         font-weight: bold;
+    }
+
+    /* Style pour les appareils mobiles */
+    @media screen and (max-width: 768px) {
+        .bandeau {
+            animation: defile-mobile 15s linear infinite;
+        }
+
+        /* Animation de défilement horizontal pour les appareils mobiles */
+        @keyframes defile-mobile {
+            from { transform: translateX(100%); }
+            to { transform: translateX(-100%); }
+        }
     }
 </style>
 
@@ -164,8 +177,9 @@
 
     <!-- Bandeau d'offre de mission bénévole
 ================================================== -->
-<div class="bandeau-container">
-    <div class="bandeau">
+
+<div class="bandeau-container" onmouseenter="pauseAnimation()" onmouseleave="resumeAnimation()">
+    <div id="bandeau">
         <p>
             Une opportunité de mission bénévole pour un développeur web !
             Rejoignez-nous pour soutenir l'association Zikapanam dans ses projets passionnants.
@@ -173,6 +187,22 @@
         </p>
     </div>
 </div>
+
+<script>
+    var bandeau = document.getElementById('bandeau');
+
+    function pauseAnimation() {
+        bandeau.style.animationPlayState = 'paused';
+        bandeau.style.animation = 'none'; // Arrête l'animation de défilement
+        bandeau.style.textAlign = 'center'; // Centre le texte
+    }
+
+    function resumeAnimation() {
+        bandeau.style.animationPlayState = 'running';
+        bandeau.style.animation = 'defile 15s linear infinite'; // Redémarre l'animation de défilement
+        bandeau.style.textAlign = 'left'; // Remet l'alignement du texte à gauche
+    }
+</script>
 
 <div class="container">
 

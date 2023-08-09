@@ -22,7 +22,7 @@ ci-après l'"Editeur".</p>
 Kelly Jr St San Francisco CA 94107 United States of America , avec le numéro de téléphone : +1 (877) 448-4820, le site web <a href="https://github.com/">https://github.com/</a>
 <h2>ARTICLE 3 - ACCES AU SITE</h2>
 <p>Le Site est accessible en tout endroit, 7j/7, 24h/24 sauf cas de force majeure, interruption
-programmée ou non et pouvant découlant d’une nécessité de maintenance.</p>
+programmée ou non et pouvant découler d’une nécessité de maintenance.</p>
 <p>En cas de modification, interruption ou suspension du Site, l'Editeur ne saurait être tenu responsable.</p>
 <h2>ARTICLE 4 - COLLECTE DES DONNEES</h2>
 <p>Le site est exempté de déclaration à la Commission Nationale Informatique et Libertés (CNIL) dans la

@@ -69,6 +69,7 @@ permalink: /about
 	<li>Collectif Jazz-Funk ツ (Clément) <a href="https://discord.com/channels/893372971073277962/1128235531113869342/1128235531113869342">[Présentation]</a> ;</li>
 	<li>Collectif Repassez-moi le standard ! (Jazz - Fred) <a href="https://discord.com/channels/893372971073277962/1122424995939889164">[Présentation]</a> ;</li>
 	<li>Collective Rock 90 and Beyond ! (Rock Alt / Indie Rock - Yiannis) <a href="https://discord.com/channels/893372971073277962/1130966000007909558">[Présentation]</a> ;</li>
+	<li>Collective Club Frenchy ! (Chanson Française - Constance) <a href="https://discord.com/channels/893372971073277962/1151975406346457168/1151975406346457168">[Présentation]</a> ;</li>
 	<li>... D'autres à venir d'ici octobre ! <a href="http://discord.gg/xjPA48eNJz">Connectez-vous</a> !</li>	
 	</ul>
 	</p>

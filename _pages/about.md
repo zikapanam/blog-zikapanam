@@ -68,7 +68,7 @@ permalink: /about
 	<li>Collectif Repassez-moi le standard ! (Jazz - Fred) <a href="https://discord.com/channels/893372971073277962/1122424995939889164">[Présentation]</a> ;</li>
 	<li>Collectif Rock 90 and Beyond ! (Rock Alt / Indie Rock - Yiannis) <a href="https://discord.com/channels/893372971073277962/1130966000007909558">[Présentation]</a> ;</li>
 	<li>Collectif Club Frenchy ! (Chanson Française - Constance) <a href="https://discord.com/channels/893372971073277962/1151975406346457168/1151975406346457168">[Présentation]</a> ;</li>
-	<li>... D'autres à venir d'ici octobre ! <a href="http://discord.gg/xjPA48eNJz">Connectez-vous</a> !</li>	
+	<li>... D'autres à venir tout au long de l'année ! <a href="http://discord.gg/xjPA48eNJz">Connectez-vous</a> !</li>	
 	</ul>
 	</p>
    </div>
@@ -98,7 +98,7 @@ permalink: /about
 	<li>Collectif Oldies but Goldies (Yann) : Jazz <a href='https://discord.com/channels/1038909359712895058/1150086345532899388/1150086345532899388'>[Présentation]</a> ;</li>
 	<li>Collectif Panam AfroFuze (Paul) : Jazz, Blues, Soul, Funk, Afro Beat. <a href='https://discord.com/channels/1038909359712895058/1092582664088850432/1092582664088850432'>[Présentation]</a> ;</li>
 	<li>Collectif Into The Groove (Pierre-Henri) : Soul, RnB, Funk. <a href='https://discord.com/channels/1038909359712895058/1131556262530793482/1131556262530793482'>[Présentation]</a> ;</li>
-	<li>D'autres à venir d'ici octobre ! <a href="https://discord.gg/PgJcKCpyqU">Connectez-vous</a> !</li>
+	<li>D'autres à venir tout au long de l'année ! <a href="https://discord.gg/PgJcKCpyqU">Connectez-vous</a> !</li>
 	</ul>
 	</p>
 	<p>Plusieurs types de jams à ce jour :

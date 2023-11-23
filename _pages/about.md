@@ -94,7 +94,7 @@ permalink: /about
 	<p>Les collectifs suivants ont été créés ou sont en cours de constitution :
 	<ul>
 	<li>Collectif Ultra Heavy Riffs (Jeanne-Charlotte) : Du rock au métal <a href='https://discord.com/channels/1038909359712895058/1052703682799599666/1052703682799599666'>[Présentation]</a> ;</li>
-	<li>Collectif Les Grands Classiques (Maurice) : Chanson française et variété internationale <a href='https://discord.com/channels/1038909359712895058/1062782176501972992/1062782176501972992'>[Présentation]</a> ;</li>
+	<li>Collectif Les Grands Classiques (Maurice) : Tubes internationaux autour de la variété française, de la pop/rock, de la soul mais également du punk/Rock/Grunge (Plusieurs lineups avec influences différentes) <a href='https://discord.com/channels/1038909359712895058/1062782176501972992/1062782176501972992'>[Présentation]</a> ;</li>
 	<li>Collectif Oldies but Goldies (Yann) : Jazz <a href='https://discord.com/channels/1038909359712895058/1150086345532899388/1150086345532899388'>[Présentation]</a> ;</li>
 	<li>Collectif Panam AfroFuze (Paul) : Jazz, Blues, Soul, Funk, Afro Beat. <a href='https://discord.com/channels/1038909359712895058/1092582664088850432/1092582664088850432'>[Présentation]</a> ;</li>
 	<li>Collectif Into The Groove (Pierre-Henri) : Soul, RnB, Funk. <a href='https://discord.com/channels/1038909359712895058/1131556262530793482/1131556262530793482'>[Présentation]</a> ;</li>

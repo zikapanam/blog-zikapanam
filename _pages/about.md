@@ -39,7 +39,7 @@ permalink: /about
  	<p>
 	<b>Email</b> : <a href="contact-pjc@zikapanam.fr">contact-pjc@zikapanam.fr</a><br/>
 	<b>Linktree</b> : <a href="https://linktr.ee/JamsMusicales">https://linktr.ee/JamsMusicales</a><br/>
-	<b>Discord (PJC)</b> : <a href="http://discord.gg/xjPA48eNJz">Lien d'invitation (Cliquez ici pour rejoindre le Discord PJC)</a><br/>
+	<b>Discord (PJC)</b> : <a href="https://discord.gg/Ad2EfNXPeB">Lien d'invitation (Cliquez ici pour rejoindre le Discord PJC)</a><br/>
 	<b>Facebook</b> : <a href="https://www.facebook.com/ParisJamClub">https://www.facebook.com/ParisJamClub</a><br/>
 	<b>Niveau</b> : intermédiaire-avancé ou avancé (<a href="https://www.blog.zikapanam.fr/zap-comment-%C3%A9valuer-son-niveau/">Évaluer son niveau ?</a>)<br/>
 	<b>YouTube </b> : <a href="https://www.youtube.com/@parisjamclub/playlists">Paris Jam Club (Playlists de vidéos)</a><br/>
@@ -84,7 +84,7 @@ permalink: /about
 	<p>
 	<b>Email</b> : <a href="contact-mip@zikapanam.fr">contact-mip@zikapanam.fr</a><br/>
 	<b>Linktree</b> : <a href="https://linktr.ee/Musiciens.Interdebs.Parisiens">https://linktr.ee/Musiciens.Interdebs.Parisiens</a><br/>
-	<b>Discord (MIP)</b> : <a href="https://discord.gg/PgJcKCpyqU">Lien d'invitation (Cliquez ici pour rejoindre le Discord MIP)</a><br/>
+	<b>Discord (MIP)</b> : <a href="https://discord.gg/DBKNAFcSem">Lien d'invitation (Cliquez ici pour rejoindre le Discord MIP)</a><br/>
 	<b>Facebook</b> : <a href="https://www.facebook.com/musiciens.interdebs.parisiens">https://www.facebook.com/musiciens.interdebs.parisiens</a><br/>
 	<b>Niveau</b> : intermédiaire ou débutant (<a href="https://www.blog.zikapanam.fr/zap-comment-%C3%A9valuer-son-niveau/">Évaluer son niveau ?</a>)<br/>
 	</p>

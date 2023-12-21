@@ -9,8 +9,8 @@ permalink: /discord
 Ici vous trouverez les liens d'invitation aux deux communautés Discord gérées par l'association ZIKAPANAM.
 </p>
 <ul>
-<li><strong>Musiciens Intermédiaires et débutants de Paris</strong> (Adultes uniq.) : <a href="https://discord.gg/PgJcKCpyqU">https://discord.gg/PgJcKCpyqU</a></li>
-<li><strong>Paris Jam Club</strong> (Adultes uniq. + 5 ans de pratique régulière) : <a href="http://discord.gg/xjPA48eNJz">http://discord.gg/xjPA48eNJz</a></li>
+<li><strong>Musiciens Intermédiaires et débutants de Paris</strong> (Adultes uniq.) : <a href="https://discord.gg/DBKNAFcSem">https://discord.gg/DBKNAFcSem</a></li>
+<li><strong>Paris Jam Club</strong> (Adultes uniq. + 5 ans de pratique régulière) : <a href="https://discord.gg/Ad2EfNXPeB">https://discord.gg/Ad2EfNXPeB</a></li>
 </ul>
 </div>
 <div class="english">
@@ -19,7 +19,7 @@ Ici vous trouverez les liens d'invitation aux deux communautés Discord gérées
 Here you will find the invitation links to the two Discord communities managed by the ZIKAPANAM association.
 </p>
 <ul>
-<li><strong>Intermediate and beginner musicians from Paris</strong> (Adults only): <a href="https://discord.gg/PgJcKCpyqU">https://discord.gg/PgJcKCpyqU</a></li>
-<li><strong>Paris Jam Club</strong> (Adults only + 5 years of regular practice): <a href="http://discord.gg/xjPA48eNJz">http://discord.gg/xjPA48eNJz </a></li>
+<li><strong>Intermediate and beginner musicians from Paris</strong> (Adults only): <a href="https://discord.gg/DBKNAFcSem">https://discord.gg/DBKNAFcSem</a></li>
+<li><strong>Paris Jam Club</strong> (Adults only + 5 years of regular practice): <a href="https://discord.gg/Ad2EfNXPeB">https://discord.gg/Ad2EfNXPeB</a></li>
 </ul>
 </div>

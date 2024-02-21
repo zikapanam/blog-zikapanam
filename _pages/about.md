@@ -68,7 +68,7 @@ permalink: /about
 	<li>... D'autres à venir tout au long de l'année ! <a href="http://discord.gg/xjPA48eNJz">Connectez-vous</a> !</li>	
 	</ul>
 	</p>
-	<p style="float:right">
+	<p style="text-align:right">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/s2rv5i4-7Zg?si=pLKVqp5lqpTK_Aif" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 	</p>
    </div>
@@ -109,7 +109,7 @@ permalink: /about
 	<li>karaoké</li>
 	</ul>
 	</p>
-	<p style="float:right">
+	<p style="text-align:right">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/Yem62eh5mZ4?si=sDXGVukoWTh5tlAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 	</p>
 	</div>

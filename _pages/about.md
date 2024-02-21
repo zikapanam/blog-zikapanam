@@ -55,6 +55,7 @@ permalink: /about
 	<li>sorties jams (pour aller en groupe à une scène ouverte ou une jam session qui a pignon sur rue)</li>
 	<li>street jams (dehors par beau temps) ;</li>
 	<li>jams distancielles (par internet).</li>
+	<li>karaoké</li>
 	</ul>
  	</p>
  	<p>PJC propose aussi de nombreux collectifs :
@@ -64,10 +65,11 @@ permalink: /about
 	<li>Collectif Vulfans (Reprises de Vulfpeck - Yoann) <a href="https://discord.com/channels/893372971073277962/1119742878604873759">[Présentation]</a> ;</li>
 	<li>Collectif Jazz-Funk ツ (Clément) <a href="https://discord.com/channels/893372971073277962/1128235531113869342/1128235531113869342">[Présentation]</a> ;</li>
 	<li>Collectif Repassez-moi le standard ! (Jazz - Fred) <a href="https://discord.com/channels/893372971073277962/1122424995939889164">[Présentation]</a> ;</li>
-	<li>Collectif Rock 90 and Beyond ! (Rock Alt / Indie Rock - Yiannis) <a href="https://discord.com/channels/893372971073277962/1130966000007909558">[Présentation]</a> ;</li>
-	<li>Collectif Club Frenchy ! (Chanson Française - Constance) <a href="https://discord.com/channels/893372971073277962/1151975406346457168/1151975406346457168">[Présentation]</a> ;</li>
 	<li>... D'autres à venir tout au long de l'année ! <a href="http://discord.gg/xjPA48eNJz">Connectez-vous</a> !</li>	
 	</ul>
+	</p>
+	<p style="float:right">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/s2rv5i4-7Zg?si=pLKVqp5lqpTK_Aif" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 	</p>
    </div>
 </section>
@@ -104,7 +106,11 @@ permalink: /about
 	<li>jams en studio de répétition ;</li>
 	<li>sorties jams (pour aller en groupe à une scène ouverte ou une jam session qui a pignon sur rue) ;</li>
 	<li>street jams (dehors par beau temps dans des endroits où cette activité est tolérée).</li>
+	<li>karaoké</li>
 	</ul>
+	</p>
+	<p style="float:right">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/Yem62eh5mZ4?si=sDXGVukoWTh5tlAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 	</p>
 	</div>
 </section>

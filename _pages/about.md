@@ -65,7 +65,7 @@ permalink: /about
 	<li>Collectif Vulfans (Reprises de Vulfpeck - Yoann) <a href="https://discord.com/channels/893372971073277962/1119742878604873759">[Présentation]</a> ;</li>
 	<li>Collectif Jazz-Funk ツ (Clément) <a href="https://discord.com/channels/893372971073277962/1128235531113869342/1128235531113869342">[Présentation]</a> ;</li>
 	<li>Collectif Repassez-moi le standard ! (Jazz - Fred) <a href="https://discord.com/channels/893372971073277962/1122424995939889164">[Présentation]</a> ;</li>
-	<li>... D'autres à venir tout au long de l'année ! <a href="http://discord.gg/xjPA48eNJz">Connectez-vous</a> !</li>	
+	<li>... D'autres à venir tout au long de l'année ! <a href="https://discord.gg/Ad2EfNXPeB">Connectez-vous</a> !</li>	
 	</ul>
 	</p>
 	<p style="text-align:right">

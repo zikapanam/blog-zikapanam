@@ -1,6 +1,6 @@
 # Deployment
 host: 0.0.0.0
-port: 8080 
+port: 8082 
 
 # Site
 name: "ZIKAPANAM"
@@ -30,7 +30,7 @@ authors:
     display_name: ZAP   
     avatar: assets/images/avatar.png
     email: contact@zikapanam.fr
-    web: https://www.zikapanam.fr
+    web: https://www.blog.zikapanam.fr
     description: "Rédacteur de ce blog, l'équipe ZIKAPANAM."
 
 # Plugins
@@ -40,7 +40,11 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
-    
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
+  
 # Archives
 jekyll-archives:
   enabled:

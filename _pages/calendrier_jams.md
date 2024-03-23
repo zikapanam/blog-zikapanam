@@ -8,11 +8,11 @@ permalink: /calendriers
 <ul class="tab" data-tab="47e7fac6-28a7-4470-a67b-1e7406c42f73" data-name="calendriers">
   
       <li class="active">
-          <a id="PJC" href="#">Jams sur PJC</a>
+          <a id="PJC" href="#"><b>Rencontres sur PJC</b></a>
       </li>
   
       <li>
-          <a id="MIP" href="#">Collectifs sur MIP</a>
+          <a id="MIP" href="#"><b>Rencontres sur MIP</b></a>
       </li>
     
 </ul>

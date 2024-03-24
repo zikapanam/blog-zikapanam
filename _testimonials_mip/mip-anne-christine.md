@@ -1,5 +1,5 @@
 ---
-author: Anne-Christine_Tch
+author: AnneChristine_Tch
 attribution: "Guitariste MIP"
 index: 3
 ---

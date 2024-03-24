@@ -28,11 +28,26 @@ index: 1
     <!-- Full-width slides/quotes -->
     <div class="mySlides{{ tabn }}">
       <div class="mySlidesContainer{{ tabn }}">
+
+        <p class="author">
+        Par: <span>{{ testimonial.author }}</span>
+        <br/><span>{{ testimonial.attribution }}</span>
+        </p>
+        <div style="min-height:200px">
+        <div style="float: left;margin: 0px 10px 10px 0px">
+          <p><img src="{{ testimonial.avatar }}" style="border: 1px solid black;" width="150"/></p>
+          <p>
+          {% if testimonial.photographe_link %}
+          <a href="{{ testimonial.photographe_link }}" target="_blank">Photographe</a>
+          {% endif %}
+          </p>
+        </div>
         <q>
           {{ testimonial.content | remove: "<p>" | remove: "</p>" }}
         </q>
+        </div>
+
       </div>
-      <p class="author">Par: <span>{{ testimonial.author }}</span><br/><span>{{ testimonial.attribution }}</span></p>
     </div>
 {% endfor %}
 

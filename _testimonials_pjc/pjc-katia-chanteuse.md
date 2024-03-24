@@ -1,6 +1,7 @@
 ---
 author: Katia_Tai
 attribution: Chanteuse PJC
+avatar: /assets/images/avatars/avatar.jpg
 index: 8
 ---
 Je ne suis pas arrivée par hasard au Paris Jam Club. C’est mon ami Marco avec qui nous partageons un groupe de 4 musiciens qui m’a proposé de rejoindre la Jam.

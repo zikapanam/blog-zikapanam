@@ -1,6 +1,7 @@
 ---
 author: Nicolas_Leb
 attribution: "Guitariste, Chanteur et organisateur de jams PJC"
+avatar: /assets/images/avatars/nicolas-3f5d9d38-c447-4e7f-b75e-a04f7473e23c.jpg.jpg
 index: 9
 ---
 Grâce au super projet de Laurent, PJC, j'ai pu rejoindre un réseau de musiciens et de musiciennes de toutes générations et de tous horizons pour des rencontres musicales bienveillantes autour de notre passion commune. L'organisation des jams est ouverte à tout le monde et à tous les styles.

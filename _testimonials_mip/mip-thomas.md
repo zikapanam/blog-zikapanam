@@ -1,6 +1,7 @@
 ---
 author: Thomas_Ber
 attribution: "Guitariste MIP"
+avatar: /assets/images/avatars/avatar.jpg
 index: 4
 ---
 Je recherchais depuis un moment un moyen stable pour jouer à plusieurs sur un répertoire assez large.

@@ -1,6 +1,7 @@
 ---
 author:  Maurice_Ang
-attribution: "Leader MIP" 
+attribution: "Leader MIP"
+avatar: /assets/images/avatars/avatar.jpg
 index: 2
 ---
 J'ai rejoint MIP en décembre dernier pour rencontrer des musiciens-nes et pratiquer le chant sur différents styles de musique.

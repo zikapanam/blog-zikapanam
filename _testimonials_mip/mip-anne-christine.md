@@ -1,6 +1,7 @@
 ---
 author: AnneChristine_Tch
 attribution: "Guitariste MIP"
+avatar: /assets/images/avatars/avatar.jpg
 index: 3
 ---
 La musique dans sa chambre c’est bien….mais avec d'autres musiciens c’est encore mieux et même indispensable !

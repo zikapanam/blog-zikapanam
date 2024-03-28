@@ -1,7 +1,7 @@
 ---
 author: Nathalie_Mil
 attribution: Batteuse PJC
-avatar: /assets/images/avatars/nathalie-E68A2999-Paul_CUVEILLIER.jpg
+avatar: /assets/images/avatars/nathalie-E68A3942-Paul_CUVEILLIER.jpg
 photographe_link: https://www.instagram.com/paulo_pict 
 index: 4
 ---

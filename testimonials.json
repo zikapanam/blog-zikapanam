@@ -1,0 +1,9 @@
+---
+layout: null
+---
+{
+    "pjc" : {% assign sortedtestimonials = site.testimonials_pjc | sort: "index" %}{{ sortedtestimonials | jsonify }},
+    "pjc_orga" : {% assign sortedtestimonials = site.testimonials_pjc_orga | sort: "index" %}{{ sortedtestimonials | jsonify }},
+    "mip" : {% assign sortedtestimonials = site.testimonials_mip | sort: "index" %}{{ sortedtestimonials | jsonify }},
+    "mip_orga" : {% assign sortedtestimonials = site.testimonials_mip_orga | sort: "index" %}{{ sortedtestimonials | jsonify }}
+}

@@ -18,7 +18,10 @@ layout: page
           {{ testimonial.content | remove: "<p>" | remove: "</p>" }}
         </q>
       </div>
-      <p class="author"><span><strong>{{ testimonial.author }}</strong></span><br/><span>{{ testimonial.attribution }}</span></p>
+      <p class="author">
+        <span><strong>{{ testimonial.author }}</strong></span><br/>
+        <span>{{ testimonial.attribution }}</span>
+      </p>
     </div>
 {% endfor %}
 

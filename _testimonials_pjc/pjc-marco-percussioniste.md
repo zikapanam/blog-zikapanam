@@ -1,6 +1,6 @@
 ---
 author: Marco_Cor
-attribution: Percussioniste PJC
+attribution: Percussioniste
 avatar: /assets/images/avatars/marco-E68A2981-Paul_CUVEILLIER.jpg
 photographe_link: https://www.instagram.com/paulo_pict 
 index: 5

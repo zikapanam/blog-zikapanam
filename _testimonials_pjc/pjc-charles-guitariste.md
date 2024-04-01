@@ -1,6 +1,6 @@
 ---
 author: Charles_Roc
-attribution: Guitariste PJC
+attribution: Guitariste
 avatar: /assets/images/avatars/charles-_MG_3933-1-Eric_Leboulanger.jpg
 photographe_link: https://www.instagram.com/fan_de_phot 
 index: 6

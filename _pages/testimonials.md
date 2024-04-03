@@ -10,19 +10,19 @@ permalink: /testimonials
 
       <li class="active">
           
-          <a id="PJC" href="#">Avancés 🦁 </a>
+          <a id="PJC" href="#">Avancés 🎆 </a>
       </li>
   
       <li>
-          <a id="OrgasPJC" href="#">Orgas des avancés 🦁 </a>
+          <a id="OrgasPJC" href="#">Orgas des avancés 🎆 </a>
       </li>
   
       <li>
-          <a id="MIP" href="#">Interdebs 🐤 </a>
+          <a id="MIP" href="#">Interdebs 😎 </a>
       </li>
   
       <li>
-          <a id="LeadersMIP" href="#">Orgas des interdebs 🐤</a>
+          <a id="LeadersMIP" href="#">Orgas des interdebs 😎</a>
       </li>
   
 </ul>

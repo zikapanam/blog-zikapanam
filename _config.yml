@@ -3,9 +3,9 @@ host: 0.0.0.0
 port: 8082 
 
 # Site
-name: "ZIKAPANAM"
-title: "ZIKAPANAM"
-description: "Le Blog de ZIKAPANAM, une association à but non lucratif qui organise des rencontres musicales (jams, répétitions, openmics, concerts) ouvertes aux adultes sur Paris intramuros et petites couronnes ! (selon votre niveau, nous avons des solutions)."
+name: "Asso Zikapanam"
+title: "Asso Zikapanam"
+description: "Le Blog de l'asso Zikapanam, une association à but non lucratif qui organise des rencontres musicales (jams, répétitions, openmics, concerts) ouvertes aux adultes sur Paris intramuros et petites couronnes ! (selon votre niveau, nous avons des solutions)."
 logo: assets/images/logo.png
 favicon: assets/images/favicon.ico'
 baseurl: 

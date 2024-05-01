@@ -4,7 +4,7 @@ title: RSS
 permalink: /rss
 ---
 <p>
-Liens RSS, abonnez-vous et soyez au courant de tous les nouveaux événements, posts et articles que nous publions depuis votre lecteur de flux RSS !
+Liens RSS, abonnez-vous et soyez au courant de tous les nouveaux événements, posts et articles que nous publions depuis votre lecteur de flux RSS (Thunderbird, Outlook, RSS feed mobile app etc.) !
 </p>
 <p>
 <ul>

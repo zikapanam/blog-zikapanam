@@ -5,7 +5,7 @@ port: 8082
 # Site
 name: "Asso Zikapanam"
 title: "Asso Zikapanam"
-description: "Le Blog de l'asso Zikapanam, une association à but non lucratif qui organise des rencontres musicales (jams, répétitions, openmics, concerts) ouvertes aux adultes sur Paris intramuros et petites couronnes ! (selon votre niveau, nous avons des solutions)."
+description: "Le Blog de l'asso Zikapanam, une association à but non lucratif qui organise des rencontres musicales (jams, répétitions, openmics, concerts) ouvertes aux adultes sur Paris intramuros et petites couronnes ! Selon votre niveau, nous avons des solutions."
 logo: assets/images/logo.png
 favicon: assets/images/favicon.ico'
 baseurl: 

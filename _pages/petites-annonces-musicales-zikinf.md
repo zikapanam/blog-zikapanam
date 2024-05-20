@@ -9,6 +9,9 @@ Voici l'annonce que j'ai mise sur zikinf :
 
 <h2>Nous cherchons tout type d'instrument</h2>
 
+<p>Guitare, basse, contrebasse, violon, violoncelle, harpe, autres instruments à cordes, chant - voix, clavier - piano, batterie, cajon, percussion, accordéon, clarinette, flûte, harmonica, saxophone, trompette, trombone, autres instruments à vent, MAO
+</p>
+
 <img src="/assets/images/zap-avances+intedebs.png" width="300"/>
 
 <p>

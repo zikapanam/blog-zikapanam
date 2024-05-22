@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Petites annonces musicales
-permalink: /petites-annonces-musicales-zikinf
+permalink: /petites-annonces-musicales
 ---
 <p>
 Voici l'annonce que j'ai mise sur zikinf :

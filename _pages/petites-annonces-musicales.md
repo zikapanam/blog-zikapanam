@@ -43,7 +43,7 @@ Plus d’infos là : <a  href="https://www.blog.zikapanam.fr/about">https://www.
 </p>
 
 <p>Suivez ce lien pour atterrir sur notre serveur Discord : <br/>
-<a href="https://discord.gg/DBKNAFcSem">https://discord.gg/DBKNAFcSem</a>
+<a href="https://www.blog.zikapanam.fr/invitation-discord">https://www.blog.zikapanam.fr/invitation-discord</a>
 </p>
 
 <p>

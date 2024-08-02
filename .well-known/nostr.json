@@ -1,0 +1,11 @@
+{
+  "names": {
+    "Asso Zikapanam": "2025ceb5b8824d1df4dcceadc75dcceea72b5f1e64acabd9530949c3f1ee6d58"
+  },
+  "relays": {
+    "2025ceb5b8824d1df4dcceadc75dcceea72b5f1e64acabd9530949c3f1ee6d58": [
+      "wss: //relay.nostromo.social",
+      "wss: //nostr.lopp.social"
+    ]
+  }
+}

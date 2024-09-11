@@ -221,24 +221,57 @@
             <!-- Site Title
 ================================================== -->
             <div class="mainheading">
-                <table style="width: 100%; vertical-align: middle;">
-                    <tr>
-                        <td style="width: 30%; text-align: right;">
-                            <!-- Begin Logo -->
-                            <a href="{{ site.baseurl }}">
-                                <img src="{{ site.baseurl }}/{{ site.logo_baseline }}" height="192"
-                                    alt="{{ site.name }}">
-                            </a>
-                            <!-- End Logo -->
-                        </td>
-                        <td style="width: 70%; text-align: left;">
-                            <!-- Description -->
-                            <p>
-                                {{ site.description }}
-                            </p>
-                        </td>
-                    </tr>
-                </table>
+                <style>
+                    .container {
+                        display: flex;
+                        flex-wrap: wrap;
+                        align-items: center;
+                        justify-content: space-between;
+                    }
+
+                    .logo {
+                        flex: 0 0 30%;
+                        text-align: right;
+                    }
+
+                    .description {
+                        flex: 0 0 70%;
+                        text-align: left;
+                    }
+
+                    .logo img {
+                        max-width: 100%;
+                        height: auto;
+                    }
+
+                    /* Media query for smaller screens */
+                    @media (max-width: 768px) {
+                        .container {
+                            display: block;
+                            text-align: center;
+                        }
+
+                        .logo,
+                        .description {
+                            flex: 0 0 100%;
+                            text-align: center;
+                        }
+                    }
+                </style>
+
+                <div class="container">
+                    <div class="logo">
+                        <!-- Begin Logo -->
+                        <a href="{{ site.baseurl }}">
+                            <img src="{{ site.baseurl }}/{{ site.logo_baseline }}" height="192" alt="{{ site.name }}">
+                        </a>
+                        <!-- End Logo -->
+                    </div>
+                    <div class="description">
+                        <!-- Description -->
+                        <p>{{ site.description }}</p>
+                    </div>
+                </div>
             </div>
 
 

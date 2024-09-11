@@ -3,12 +3,60 @@ Template Name: Mediumish
 Copyright: Sal, WowThemes.net, https://www.wowthemes.net 
 License: https://www.wowthemes.net/freebies-license/ 
 */
-@media screen and (min-width:1500px) {
-    html { font-size:18px; } /* Increase the font size on higher resolutions */
-    .container {max-width:80%;}
+
+/* Import Chaumont Script */
+@font-face {
+    font-family: 'ChaumontScript';
+    src: url('{{ "/assets/fonts/Chaumont_scriptBeta-Regular.otf" | relative_url }}') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+    color: #002859;
 }
+
+/* Import Piscolabis Regular */
+@font-face {
+    font-family: 'Piscolabis';
+    src: url('{{ "/assets/fonts/Piscolabis-Regular.ttf" | relative_url }}') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    color: #002859;
+}
+
+/* Import Poppins Regular */
+@font-face {
+    font-family: 'Poppins';
+    src: url('{{ "/assets/fonts/Poppins-Regular.ttf" | relative_url }}') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    color: #002859;
+}
+
+
+@media screen and (min-width:1500px) {
+    html {
+        font-size: 18px;
+    }
+
+    /* Increase the font size on higher resolutions */
+    .container {
+        max-width: 80%;
+    }
+
+}
+
 .mainheading {
     padding: 1rem 0rem;
+    font-family: 'ChaumontScript', sans-serif;
+    color: #002859;
+
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    /* Set Poppins as the default font */
+    font-weight: normal;
+    font-style: normal;
+    color: #002859;
 }
 
 a {
@@ -25,6 +73,7 @@ a:visited {
     color: #884488;
     text-decoration: none;
 }
+
 pre {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
@@ -60,20 +109,20 @@ pre {
 }
 
 @media only screen and (max-width: 1200px) {
-section.about {
-    margin-bottom: 20px;
-    max-width: 100%; 
-    min-height:450px;
-}
+    section.about {
+        margin-bottom: 20px;
+        max-width: 100%;
+        min-height: 450px;
+    }
 }
 
 @media only screen and (min-width: 1200px) {
-section.about {
-    margin-bottom: 20px;
-    max-width: 70%;
-    padding-left: 15%;
-    min-height:450px; 
-}
+    section.about {
+        margin-bottom: 20px;
+        max-width: 70%;
+        padding-left: 15%;
+        min-height: 450px;
+    }
 }
 
 
@@ -91,6 +140,8 @@ section.recent-posts {
     font-weight: 700;
     font-size: 1.4rem;
     margin-bottom: 27px;
+    font-family: 'Piscolabis', sans-serif;
+    /* Set Poppins as the default font */
 }
 
 .section-title span {
@@ -98,6 +149,8 @@ section.recent-posts {
     display: inline-block;
     padding-bottom: 20px;
     margin-bottom: -1px;
+    font-family: 'Piscolabis', sans-serif;
+    /* Set Poppins as the default font */
 }
 
 .article-post ol,
@@ -167,11 +220,13 @@ section.recent-posts {
     font-size: 1.3rem;
     font-weight: 700;
     line-height: 1.25;
+    color: #002859;
+
 }
 
 .listfeaturedtag h4.card-text,
 .listrecent h4.card-text {
-    color: rgba(0, 0, 0, .44);
+    color: #002859;
     font-size: 0.95rem;
     line-height: 1.6;
     font-weight: 400;
@@ -220,7 +275,7 @@ section.recent-posts {
 
 .post-top-meta span {
     font-size: 0.9rem;
-    color: rgba(0, 0, 0, .44);
+    color: #002859;
     display: inline-block;
 }
 
@@ -250,7 +305,7 @@ span.author-meta {
 
 span.post-date,
 span.post-read {
-    color: rgba(0, 0, 0, .44);
+    color: #33537a;
 }
 
 span.post-read-more {
@@ -261,12 +316,12 @@ span.post-read-more {
 }
 
 span.post-read-more a {
-    color: rgba(0, 0, 0, .44);
+    color: #33537a;
 }
 
 span.post-name a,
 span.post-read-more a:hover {
-    color: rgba(0, 0, 0, .8);
+    color: #33537a;
 }
 
 .dot:after {
@@ -312,6 +367,7 @@ span.post-read-more a:hover {
 .mediumnavigation .nav-item,
 .dropdown-menu {
     font-size: 0.9rem;
+    font-weight: bold;
 }
 
 .mediumnavigation .search-icon {
@@ -327,12 +383,13 @@ span.post-read-more a:hover {
 }
 
 .mainheading h1.sitetitle {
-    font-family: Righteous;
+    font-family: 'ChaumontScript', sans-serif;
 }
 
 .mainheading h1.posttitle {
     font-weight: 700;
     margin-bottom: 1rem;
+    font-family: 'Piscolabis', sans-serif;
 }
 
 .footer {
@@ -340,7 +397,7 @@ span.post-read-more a:hover {
     padding-top: 15px;
     padding-bottom: 100px;
     font-size: 0.8rem;
-    color: rgba(0, 0, 0, .44);
+    color: #002859;
     margin-top: 50px;
     margin-bottom: 62px;
     position: relative;
@@ -348,21 +405,21 @@ span.post-read-more a:hover {
 }
 
 .link-dark {
-    color: rgba(0, 0, 0, .8);
+    color: #002859;
 }
 
 .article-post {
     font-family: Merriweather;
     font-size: 1.1rem;
     line-height: 1.84;
-    color: rgba(0, 0, 0, .8);
+    color: #002859;
 }
 
 blockquote {
     border-left: 4px solid #00ab6b;
     padding: 0 20px;
     font-style: italic;
-    color: rgba(0, 0, 0, .5);
+    color: #002859;
 }
 
 .article-post p,
@@ -496,7 +553,7 @@ blockquote {
 
 .share,
 .share a {
-    color: rgba(0, 0, 0, .44);
+    color: #002859;
     fill: rgba(0, 0, 0, .44);
 }
 
@@ -524,7 +581,7 @@ ul.tags li {
 
 ul.tags li a {
     background: rgba(0, 0, 0, .05);
-    color: rgba(0, 0, 0, .6);
+    color: #002859;
     border-radius: 3px;
     padding: 5px 10px;
 }
@@ -649,7 +706,7 @@ ul.tags li a:hover {
 
 .authorpage .author-description {
     font-size: 1rem;
-    color: rgba(0, 0, 0, .6);
+    color: #002859;
 }
 
 .post-top-meta.authorpage .btn.follow {
@@ -919,4 +976,3 @@ iframe {
     opacity: 0;
     transition: opacity .25s;
 }
-

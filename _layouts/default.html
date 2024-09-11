@@ -1,176 +1,187 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-F9H07LGCPP"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-F9H07LGCPP"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
 
-  gtag('config', 'G-F9H07LGCPP');
-</script>
+        gtag('config', 'G-F9H07LGCPP');
+    </script>
 
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-<link rel="icon" href="{{ site.baseurl }}/{{ site.logo }}">
-<title>{{ page.title }} | {{site.name}}</title>
+    <link rel="icon" href="{{ site.baseurl }}/{{ site.logo_no_baseline }}">
+    <title>{{ page.title }} | {{site.name}}</title>
 
-{% seo %}
+    {% seo %}
 
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    
-<link href="{{ site.baseurl }}/assets/css/screen.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+        integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 
-<link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/assets/css/screen.css" rel="stylesheet">
 
-<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-<style>
-    /* Style du bandeau */
-    .bandeau-container {
-        overflow: hidden;
-        position: relative;
-        background-color: #4CAF50;
-        color: #fff;
-        text-align: center;
-        padding: 10px;
-    }
+    <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
 
-    .bandeau {
-        display: inline-block;
-        white-space: nowrap;
-        animation: defile 15s linear infinite;
-    }
+    <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+    <style>
+        /* Style du bandeau */
+        .bandeau-container {
+            overflow: hidden;
+            position: relative;
+            background-color: #4CAF50;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+        }
 
-    /* Animation de défilement horizontal */
-    @keyframes defile {
-        from { transform: translateX(100%); }
-        to { transform: translateX(-100%); }
-    }
+        .bandeau {
+            display: inline-block;
+            white-space: nowrap;
+            animation: defile 15s linear infinite;
+        }
 
-    /* Style du lien */
-    .bandeau a {
-        color: #fff;
-        text-decoration: none;
-        font-weight: bold;
-    }
-</style>
+        /* Animation de défilement horizontal */
+        @keyframes defile {
+            from {
+                transform: translateX(100%);
+            }
+
+            to {
+                transform: translateX(-100%);
+            }
+        }
+
+        /* Style du lien */
+        .bandeau a {
+            color: #fff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+    </style>
 
 </head>
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
-<body class="{{layout}}">
-	<!-- defer loading of font and font awesome -->
-	<noscript id="deferred-styles">
-		<link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
-		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
-	</noscript>
 
-<!-- Begin Menu Navigation
+<body class="{{layout}}" style="color: #002859;">
+    <!-- defer loading of font and font awesome -->
+    <!--    <noscript id=" deferred-styles">
+    <link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"
+        integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+    </noscript>
+    -->
+    <!-- Begin Menu Navigation
 ================================================== -->
-<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
+    <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
 
-    <div class="container pr-0" style="background-color: whitesmoke;">
-
-    <!-- Begin Logo -->
-    <a class="navbar-brand" href="{{ site.baseurl }}">
-    <img src="{{ site.baseurl }}/{{ site.logo }}" height="128" alt="{{ site.name }}">
-    </a>
-    <!-- End Logo -->
-
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-    </button>
-
-    <div class="collapse navbar-collapse" id="navbarMediumish">
-
-        <!-- Begin Menu -->
-
-            <ul class="navbar-nav ml-auto">
-
-                {% if page.url == "/" %}
-                <li class="nav-item">
-                {% else %}
-                <li class="nav-item">
-                {% endif %}
-                    <a class="nav-link" href="{{ site.baseurl }}/index.html">Blog</a>
-                </li>
-
-                <li class="nav-item">
-            		<a class="nav-link" href="{{ site.baseurl }}/about">À<br/> propos</a>
-                </li>
-
-                <li class="nav-item">
-                    <a class="nav-link" href="{{ site.baseurl }}/categories">Par<br/> Catégorie</a>
-                </li>
-                
-                <li class="nav-item">
-                    <a class="nav-link" href="{{ site.baseurl }}/monthly">Par<br/> mois</a>
-                </li>
-
-                <li class="nav-item">
-                    <a class="nav-link" href="{{ site.baseurl }}/testimonials">Témoignages</a>
-                </li>
- 
-                <li class="nav-item">
-                    <a class="nav-link" href="{{ site.baseurl }}/calendriers">Calendriers</a>
-                </li>
-
-                <li class="nav-item">
-                    <a class="nav-link" href="{{ site.baseurl }}/lieux">Lieux<br/> fréquentés</a>
-                </li>
-
-                <li class="nav-item">
-                    <a class="nav-link" href="{{ site.baseurl }}/petites-annonces-musicales">Petites<br/> annonces</a>
-                </li>
-<!--
-	        	<li class="nav-item">
-                <a class="nav-link" href="{{ site.baseurl }}/ia-prompt">IA (ChatGPT)</a>
-                </li>
-
-                <li class="nav-item">
-                <a class="nav-link" href="{{ site.baseurl }}/rss">RSS</a>
-                </li>
--->
+        <div class="container pr-0" style="background-color: #c4f57c;">
 
 
-                <li class="nav-item"><a class="nav-link" href="https://keskonfai.fr/@asso_zikapanam"><img src="/assets/images/keskonfai.png" width="48"/><br/>Agenda</a></li>
-                <li class="nav-item"><a class="nav-link" href="https://pixelfed.fr/i/web/profile/691195821697027725"><img src="/assets/images/pixelfed.png" width="48"/><br/>Galerie</a></li>
-                <li class="nav-item"><a class="nav-link" href="https://musicians.today/@assozikapanam"><img src="/assets/images/mastodon.png" width="48"/><br/>Fil d'Actus</a></div></li>
-                <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/rss"><img src="/assets/images/langfr-1024px-Feed-icon.svg.png" width="48"/><br/>RSS Actus</a></div></li>
-                {% if site.search? %}
-                {% include search-lunr.html %}
-                {% endif %}
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
 
-            </ul>
+            <div class="collapse navbar-collapse" id="navbarMediumish">
+
+                <!-- Begin Menu -->
+                <!-- Begin Logo -->
+                <a href="{{ site.baseurl }}">
+                    <img src="{{ site.baseurl }}/{{ site.logo_no_baseline }}" height="128" alt="{{ site.name }}">
+                </a>
+                <!-- End Logo -->
+
+                <ul class="navbar-nav ml-auto">
+
+                    {% if page.url == "/" %}
+                    <li class="nav-item">
+                        {% else %}
+                    <li class="nav-item">
+                        {% endif %}
+                        <a class="nav-link" href="{{ site.baseurl }}/index.html">Blog</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ site.baseurl }}/about">À<br /> propos</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ site.baseurl }}/categories">Par<br /> Catégorie</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ site.baseurl }}/monthly">Par<br /> mois</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ site.baseurl }}/testimonials">Témoignages</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ site.baseurl }}/calendriers">Calendriers</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ site.baseurl }}/lieux">Lieux<br /> fréquentés</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ site.baseurl }}/petites-annonces-musicales">Petites<br />
+                            annonces</a>
+                    </li>
+
+                    <li class="nav-item"><a class="nav-link" href="https://keskonfai.fr/@asso_zikapanam"><img
+                                src="/assets/images/keskonfai.png" width="48" /><br />Agenda</a></li>
+                    <li class="nav-item"><a class="nav-link"
+                            href="https://pixelfed.fr/i/web/profile/691195821697027725"><img
+                                src="/assets/images/pixelfed.png" width="48" /><br />Galerie</a></li>
+                    <li class="nav-item"><a class="nav-link" href="https://musicians.today/@assozikapanam"><img
+                                src="/assets/images/mastodon.png" width="48" /><br />Fil d'Actus</a>
+            </div>
+            </li>
+            <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/rss"><img
+                        src="/assets/images/langfr-1024px-Feed-icon.svg.png" width="48" /><br />RSS Actus</a>
+        </div>
+        </li>
+        {% if site.search? %}
+        {% include search-lunr.html %}
+        {% endif %}
+
+        </ul>
 
         <!-- End Menu -->
 
-    </div>
-    </div>
-</nav>
-<nav class="nav">
-    <ul class="menu">
-    </ul>
-</nav>
+        </div>
+        </div>
+    </nav>
+    <nav class="nav">
+        <ul class="menu">
+        </ul>
+    </nav>
 
-<!-- End Navigation
+    <!-- End Navigation
 ================================================== -->
 
-<div class="site-content">
+    <div class="site-content">
 
-    <!-- Bandeau d'offre de mission bénévole
+        <!-- Bandeau d'offre de mission bénévole
 ================================================== -->
-<!--
+        <!--
 <div class="bandeau-container" onmouseenter="pauseAnimation()" onmouseleave="resumeAnimation()" onresize="adjustBandeau()">
     <div id="bandeau" class="bandeau">
     </div>
 </div>-->
-<div>
-    <center></center>
-</div>
-<!--
+        <div>
+            <center></center>
+        </div>
+        <!--
 <script>
     var bandeauContainer = document.querySelector('.bandeau-container');
     var bandeau = document.getElementById('bandeau');
@@ -205,117 +216,146 @@
     window.addEventListener('resize', adjustBandeau);
 </script>
 -->
-<div class="container">
+        <div class="container">
 
-<!-- Site Title
+            <!-- Site Title
 ================================================== -->
-<div class="mainheading">
-    <h1 class="sitetitle">{{ site.name }}</h1>
-    <p class="lead">
-        {{ site.description }}
-    </p>
-    <!-- ANNONCE -->
-<!--    <p>👉<a href="https://keskonfai.fr/events/f23ae2df-ad51-4aa2-badb-b9be9f9bdc2c"><b>Ce mardi 13 juin dès 20H</b>, n'oubliez pas ! Venez nombreux au <b>Quartier Général Obterkampf  entrée libre</b> ... Ça va être top !!! [Cliquez ici pour en savoir plus]</a>👈
-    </p>
--->
-</div>
-
-<!-- Content
-================================================== -->
-<div class="main-content">
-    {{ content }}
-    <script src="{{ site.baseurl }}/assets/js/tabs.js"></script>
-</div>
-
-{% if site.mailchimp-list %}
-<!-- Bottom Alert Bar
-================================================== -->
-<div class="alertbar" style="background-color: whitesmoke;">
-	<div class="container text-center">
-		<span><img src="{{ site.baseurl }}/{{ site.logo }}" height="100" alt="{{site.title}}"> &nbsp; Restez informé(e) des événements et des news de ZIKAPANAM en souscrivant à la newsletter ! (Au plus une par mois)</span>
-        <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
-            <div class="mc-field-group">
-            <input type="email" placeholder="Email" name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on" required>
-            <input type="submit" value="Subscribe" name="souscrire" class="heart">
+            <div class="mainheading">
+                <table style="width: 100%; vertical-align: middle;">
+                    <tr>
+                        <td style="width: 30%; text-align: right;">
+                            <!-- Begin Logo -->
+                            <a href="{{ site.baseurl }}">
+                                <img src="{{ site.baseurl }}/{{ site.logo_baseline }}" height="192"
+                                    alt="{{ site.name }}">
+                            </a>
+                            <!-- End Logo -->
+                        </td>
+                        <td style="width: 70%; text-align: left;">
+                            <!-- Description -->
+                            <p>
+                                {{ site.description }}
+                            </p>
+                        </td>
+                    </tr>
+                </table>
             </div>
-        </form>
-	</div>
-</div>
-{% endif %}
-    
-</div>
 
-<!-- Categories Jumbotron
+
+
+            <!-- Content
 ================================================== -->
-<div class="jumbotron fortags">
-	<div class="d-md-flex h-100">
-		<div class="col-md-4 transpdark align-self-center text-center h-100">
-            <div class="d-md-flex align-items-center justify-content-center h-100">
-                <h2 class="d-md-block align-self-center py-1 font-weight-light">Explore <span class="d-none d-md-inline">→</span></h2>
+            <div class="main-content">
+                {{ content }}
+                <script src="{{ site.baseurl }}/assets/js/tabs.js"></script>
             </div>
-		</div>
-		<div class="col-md-8 p-5 align-self-center text-center">
-            {% assign categories_list = site.categories %}
-            {% if categories_list.first[0] == null %}
-                {% for category in categories_list %}
-                    <a class="mt-1 mb-1" href="{{site.baseurl}}/categories#{{ category | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }} ({{ site.tags[category].size }})</a>
-                {% endfor %}
-            {% else %}
-                {% for category in categories_list %}
-                    <a class="mt-1 mb-1" href="{{site.baseurl}}/categories#{{ category[0] | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }} ({{ category[1].size }})</a>
-                {% endfor %}
+
+            {% if site.mailchimp-list %}
+            <!-- Bottom Alert Bar
+================================================== -->
+            <div class="alertbar" style="background-color: whitesmoke;">
+                <div class="container text-center">
+                    <span><img src="{{ site.baseurl }}/{{ site.logo_baseline }}" height="192" alt="{{site.title}}">
+                        &nbsp; Restez
+                        informé(e) des événements et des news de ZIKAPANAM en souscrivant à la newsletter ! (Au plus une
+                        par mois)</span>
+                    <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form"
+                        class="wj-contact-form validate" target="_blank" novalidate>
+                        <div class="mc-field-group">
+                            <input type="email" placeholder="Email" name="EMAIL" class="required email" id="mce-EMAIL"
+                                autocomplete="on" required>
+                            <input type="submit" value="Subscribe" name="souscrire" class="heart">
+                        </div>
+                    </form>
+                </div>
+            </div>
             {% endif %}
-            {% assign categories_list = nil %}
-		</div>
-	</div>
-</div>
 
-<!-- Begin Footer
+        </div>
+
+        <!-- Categories Jumbotron
 ================================================== -->
-<footer class="footer">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6 col-sm-6 text-center text-lg-left">
-		    Copyright © {{ site.time | date: "%Y" }} {{ site.name }}<br/>
-		    <a href="mentions-legales">Mentions légales</a>
-
-            </div>
-            <div class="col-md-6 col-sm-6 text-center text-lg-right">    
-                <a target="_blank" href="https://www.wowthemes.net/mediumish-free-jekyll-template/">Mediumish Jekyll Theme</a> by WowThemes.net
+        <div class="jumbotron fortags">
+            <div class="d-md-flex h-100">
+                <div class="col-md-4 transpdark align-self-center text-center h-100">
+                    <div class="d-md-flex align-items-center justify-content-center h-100">
+                        <h2 class="d-md-block align-self-center py-1 font-weight-light">Explore <span
+                                class="d-none d-md-inline">→</span></h2>
+                    </div>
+                </div>
+                <div class="col-md-8 p-5 align-self-center text-center">
+                    {% assign categories_list = site.categories %}
+                    {% if categories_list.first[0] == null %}
+                    {% for category in categories_list %}
+                    <a class="mt-1 mb-1"
+                        href="{{site.baseurl}}/categories#{{ category | url_escape | strip | replace: ' ', '-' }}">{{
+                        category | camelcase }} ({{ site.tags[category].size }})</a>
+                    {% endfor %}
+                    {% else %}
+                    {% for category in categories_list %}
+                    <a class="mt-1 mb-1"
+                        href="{{site.baseurl}}/categories#{{ category[0] | url_escape | strip | replace: ' ', '-' }}">{{
+                        category[0] | camelcase }} ({{ category[1].size }})</a>
+                    {% endfor %}
+                    {% endif %}
+                    {% assign categories_list = nil %}
+                </div>
             </div>
         </div>
-        <div class="row">
-            <div class="col-md-6 col-sm-6 text-center text-lg-left">
+
+        <!-- Begin Footer
+================================================== -->
+        <footer class="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 col-sm-6 text-center text-lg-left">
+                        Copyright © {{ site.time | date: "%Y" }} {{ site.name }}<br />
+                        <a href="mentions-legales">Mentions légales</a>
+
+                    </div>
+                    <div class="col-md-6 col-sm-6 text-center text-lg-right">
+                        <a target="_blank" href="https://www.wowthemes.net/mediumish-free-jekyll-template/">Mediumish
+                            Jekyll Theme</a> by WowThemes.net
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6 col-sm-6 text-center text-lg-left">
+                    </div>
+                    <div class="col-md-6 col-sm-6 text-center text-lg-right">
+                        <a target="_blank" href="https://www.unsplash.com/">Photos and images except Logos</a> Mainly by
+                        Unsplash.com
+                    </div>
+                </div>
             </div>
-            <div class="col-md-6 col-sm-6 text-center text-lg-right">
-                <a target="_blank" href="https://www.unsplash.com/">Photos and images except Logos</a> Mainly by Unsplash.com
-            </div>
-        </div>
-    </div>
-</footer>
-<!-- End Footer
+        </footer>
+        <!-- End Footer
 ================================================== -->
 
-</div> <!-- /.site-content -->
+    </div> <!-- /.site-content -->
 
-<!-- Scripts
+    <!-- Scripts
 ================================================== -->
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"
+        integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut"
+        crossorigin="anonymous"></script>
 
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"
+        integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k"
+        crossorigin="anonymous"></script>
 
-<script src="{{ site.baseurl }}/assets/js/mediumish.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/mediumish.js"></script>
 
-{% if site.lazyimages == "enabled" %}
-<script src="{{ site.baseurl }}/assets/js/lazyload.js"></script>
-{% endif %}
+    {% if site.lazyimages == "enabled" %}
+    <script src="{{ site.baseurl }}/assets/js/lazyload.js"></script>
+    {% endif %}
 
-<script src="{{ site.baseurl }}/assets/js/ie10-viewport-bug-workaround.js"></script> 
+    <script src="{{ site.baseurl }}/assets/js/ie10-viewport-bug-workaround.js"></script>
 
-{% if page.layout == 'post' and site.disqus? %}
-<script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
-{% endif %}
+    {% if page.layout == 'post' and site.disqus? %}
+    <script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
+    {% endif %}
 
 </body>
+
 </html>

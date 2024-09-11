@@ -112,10 +112,10 @@
                         <a class="nav-link" href="{{ site.baseurl }}/about">À<br /> propos</a>
                     </li>
 
-                    <li class="nav-item">
+                    <!--                    <li class="nav-item">
                         <a class="nav-link" href="{{ site.baseurl }}/categories">Par<br /> Catégorie</a>
                     </li>
-
+-->
                     <li class="nav-item">
                         <a class="nav-link" href="{{ site.baseurl }}/monthly">Par<br /> mois</a>
                     </li>
@@ -142,23 +142,23 @@
                     <li class="nav-item"><a class="nav-link"
                             href="https://pixelfed.fr/i/web/profile/691195821697027725"><img
                                 src="/assets/images/pixelfed.png" width="48" /><br />Galerie</a></li>
+                    <!--                    
                     <li class="nav-item"><a class="nav-link" href="https://musicians.today/@assozikapanam"><img
                                 src="/assets/images/mastodon.png" width="48" /><br />Fil d'Actus</a>
+                    </li>
+                    <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/rss"><img
+                                src="/assets/images/langfr-1024px-Feed-icon.svg.png" width="48" /><br />RSS Actus</a>
+                    </li>
+                -->
+                    {% if site.search? %}
+                    {% include search-lunr.html %}
+                    {% endif %}
+
+                </ul>
+
+                <!-- End Menu -->
+
             </div>
-            </li>
-            <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/rss"><img
-                        src="/assets/images/langfr-1024px-Feed-icon.svg.png" width="48" /><br />RSS Actus</a>
-        </div>
-        </li>
-        {% if site.search? %}
-        {% include search-lunr.html %}
-        {% endif %}
-
-        </ul>
-
-        <!-- End Menu -->
-
-        </div>
         </div>
     </nav>
     <nav class="nav">

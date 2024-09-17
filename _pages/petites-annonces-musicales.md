@@ -39,11 +39,11 @@ Rencontrez, échangez, partagez, progressez entre amateurs ou semi-pro ! Faîtes
 </p>
 
 <p>
-Plus d’infos là : <a  href="https://www.blog.zikapanam.fr/about">https://www.blog.zikapanam.fr/about</a>
+Plus d’infos là : <a  href="https://blog.zikapanam.fr/about">https://blog.zikapanam.fr/about</a>
 </p>
 
 <p>Suivez ce lien pour atterrir sur notre serveur Discord : <br/>
-<a href="https://www.blog.zikapanam.fr/invitation-discord">https://www.blog.zikapanam.fr/invitation-discord</a>
+<a href="https://blog.zikapanam.fr/invitation-discord">https://blog.zikapanam.fr/invitation-discord</a>
 </p>
 
 <p>

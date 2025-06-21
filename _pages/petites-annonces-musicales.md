@@ -31,15 +31,11 @@ Les bénévoles de l’association Zikapanam organisent et participent à des re
 </p>
 
 <p>
-Au menu, des rencontres musicales que nous appelons jamostudios dans un local de répétition, street jams dehors par beau temps dans les lieux où cette activité est tolérée, sortie jams dans des bars qui ont pignon sur rue et qui organisent des événements de type jam session ou scène ouverte et enfin les jams distancielles par internet particulièrement prisées lors du COVID mais qui peuvent avoir certains avantages même hors COVID !
-</p>
-
-<p>
 Rencontrez, échangez, partagez, progressez entre amateurs ou semi-pro ! Faîtes-vous de nombreuses connaissances durant votre passe temps favori !
 </p>
 
 <p>
-Plus d’infos là : <a  href="https://blog.zikapanam.fr/about">https://blog.zikapanam.fr/about</a>
+Plus d’infos là : <a  href="https://doc.zikapanam.fr">https://doc.zikapanam.fr"</a>
 </p>
 
 <p>Suivez ce lien pour atterrir sur notre serveur Discord : <br/>
